@@ -1,2 +1,11 @@
 "game_pk","date","home_team","away_team","prob_home_cal","prob_away_cal","pred_home_runs","pred_away_runs","pred_total_runs","winner_pred","prob_home_raw"
-845945,2026-05-25,"Charros de Jalisco","Sultanes de Monterrey",0.4795,0.5205,8.3,6.7,15,"Sultanes de Monterrey",0.4457
+846405,2026-05-26,"Tecos de los Dos Laredos","Acereros del Norte",0.641,0.359,5,4.4,9.4,"Tecos de los Dos Laredos",0.6764
+846542,2026-05-26,"Piratas de Campeche","Tigres de Quintana Roo",0.5746,0.4254,6.1,5.1,11.2,"Piratas de Campeche",0.5815
+846168,2026-05-26,"Guerreros de Oaxaca","Bravos de Leon",0.5909,0.4091,7.7,5.7,13.4,"Guerreros de Oaxaca",0.6048
+845987,2026-05-26,"Conspiradores de Queretaro","Pericos de Puebla",0.5368,0.4632,7.5,9,16.6,"Conspiradores de Queretaro",0.5275
+846121,2026-05-26,"Caliente de Durango","Saraperos de Saltillo",0.5898,0.4102,6.6,7.4,14,"Caliente de Durango",0.6033
+846680,2026-05-26,"Leones de Yucatan","Diablos Rojos del Mexico",0.4814,0.5186,5.1,5.2,10.3,"Diablos Rojos del Mexico",0.4484
+846729,2026-05-26,"Algodoneros Union Laguna","Dorados de Chihuahua",0.618,0.382,5,6.2,11.2,"Algodoneros Union Laguna",0.6435
+846492,2026-05-26,"Rieleros de Aguascalientes","Toros de Tijuana",0.502,0.498,7.3,9.3,16.6,"Rieleros de Aguascalientes",0.4778
+846779,2026-05-26,"Olmecas de Tabasco","El Aguila de Veracruz",0.5658,0.4342,4.7,4.3,9,"Olmecas de Tabasco",0.569
+845943,2026-05-26,"Charros de Jalisco","Sultanes de Monterrey",0.468,0.532,8.3,6.7,15,"Sultanes de Monterrey",0.4292
