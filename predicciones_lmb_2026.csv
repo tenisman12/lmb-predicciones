@@ -1,11 +1,13 @@
 "game_pk","date","home_team","away_team","prob_home_cal","prob_away_cal","pred_home_runs","pred_away_runs","pred_total_runs","winner_pred","prob_home_raw"
-846263,2026-06-19,"Tigres de Quintana Roo","Dorados de Chihuahua",0.5195,0.4805,3.7,4.8,8.5,"Tigres de Quintana Roo",0.5137
-846399,2026-06-19,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.5309,0.4691,3.7,4.2,7.9,"Tecos de los Dos Laredos",0.53
-846530,2026-06-19,"Piratas de Campeche","Acereros del Norte",0.5254,0.4746,3.7,5.6,9.2,"Piratas de Campeche",0.5221
-846431,2026-06-19,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.5617,0.4383,9.3,6.9,16.2,"Diablos Rojos del Mexico",0.574
-846171,2026-06-19,"Guerreros de Oaxaca","Charros de Jalisco",0.5654,0.4346,7.5,5.7,13.2,"Guerreros de Oaxaca",0.5792
-846112,2026-06-19,"Caliente de Durango","Conspiradores de Queretaro",0.5983,0.4017,6.5,5.9,12.4,"Caliente de Durango",0.6263
-846718,2026-06-19,"Algodoneros Union Laguna","Leones de Yucatan",0.5269,0.4731,5.7,7,12.7,"Algodoneros Union Laguna",0.5243
-846634,2026-06-19,"Saraperos de Saltillo","Bravos de Leon",0.5274,0.4726,4.6,5.6,10.2,"Saraperos de Saltillo",0.525
-846476,2026-06-19,"Rieleros de Aguascalientes","Pericos de Puebla",0.564,0.436,7.1,6.8,14,"Rieleros de Aguascalientes",0.5773
-846067,2026-06-19,"Toros de Tijuana","Olmecas de Tabasco",0.572,0.428,4.7,3.3,8.1,"Toros de Tijuana",0.5887
+846437,2026-06-20,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.5686,0.4314,9.6,6.6,16.2,"Diablos Rojos del Mexico",0.5817
+846251,2026-06-20,"Tigres de Quintana Roo","Dorados de Chihuahua",0.5299,0.4701,3.8,4.8,8.7,"Tigres de Quintana Roo",0.5263
+846399,2026-06-20,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.5562,0.4438,3.7,4.2,7.9,"Tecos de los Dos Laredos",0.5639
+846164,2026-06-20,"Guerreros de Oaxaca","Charros de Jalisco",0.5889,0.4111,7.9,5.8,13.7,"Guerreros de Oaxaca",0.6106
+846112,2026-06-20,"Caliente de Durango","Conspiradores de Queretaro",0.6003,0.3997,6.5,6,12.5,"Caliente de Durango",0.6269
+846393,2026-06-20,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.5562,0.4438,3.7,4.2,7.9,"Tecos de los Dos Laredos",0.5639
+846622,2026-06-20,"Saraperos de Saltillo","Bravos de Leon",0.5532,0.4468,4.9,5.7,10.7,"Saraperos de Saltillo",0.5597
+846477,2026-06-20,"Rieleros de Aguascalientes","Pericos de Puebla",0.5992,0.4008,7.4,6.8,14.2,"Rieleros de Aguascalientes",0.6253
+846527,2026-06-20,"Piratas de Campeche","Acereros del Norte",0.5497,0.4503,4.1,5.3,9.4,"Piratas de Campeche",0.5546
+846714,2026-06-20,"Algodoneros Union Laguna","Leones de Yucatan",0.5399,0.4601,5.6,7,12.6,"Algodoneros Union Laguna",0.5406
+846113,2026-06-20,"Caliente de Durango","Conspiradores de Queretaro",0.6003,0.3997,6.5,6,12.5,"Caliente de Durango",0.6269
+846057,2026-06-20,"Toros de Tijuana","Olmecas de Tabasco",0.5693,0.4307,4.7,3.3,8,"Toros de Tijuana",0.5827
