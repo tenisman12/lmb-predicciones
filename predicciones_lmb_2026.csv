@@ -1,589 +1,596 @@
 "game_pk","date","home_team","away_team","prob_home_cal","pred_home","pred_away","pred_total","winner_pred","kelly_fraction","edge","ganado"
-846459,2026-04-16,"Diablos Rojos del Mexico","Piratas de Campeche",0.525656188342609,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846457,2026-04-17,"Diablos Rojos del Mexico","Piratas de Campeche",0.520661631179188,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846145,2026-04-17,"Caliente de Durango","Dorados de Chihuahua",0.509195066424125,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846605,2026-04-17,"Pericos de Puebla","Guerreros de Oaxaca",0.550084048364705,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846510,2026-04-17,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.527296538241799,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846742,2026-04-17,"Algodoneros Union Laguna","Sultanes de Monterrey",0.450832126078832,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846798,2026-04-17,"Olmecas de Tabasco","Tigres de Quintana Roo",0.512730685244275,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846651,2026-04-17,"Saraperos de Saltillo","Toros de Tijuana",0.464508502847511,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846048,2026-04-17,"El Aguila de Veracruz","Conspiradores de Queretaro",0.515449054694819,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-845960,2026-04-17,"Charros de Jalisco","Acereros del Norte",0.431616069078759,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846701,2026-04-17,"Leones de Yucatan","Bravos de Leon",0.529663406609097,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846458,2026-04-18,"Diablos Rojos del Mexico","Piratas de Campeche",0.516694584281441,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846602,2026-04-18,"Pericos de Puebla","Guerreros de Oaxaca",0.480023820015854,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846507,2026-04-18,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.477365616441972,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846652,2026-04-18,"Saraperos de Saltillo","Toros de Tijuana",0.480507026530232,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-845962,2026-04-18,"Charros de Jalisco","Acereros del Norte",0.529985583378149,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846050,2026-04-18,"El Aguila de Veracruz","Conspiradores de Queretaro",0.471764613898043,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846747,2026-04-18,"Algodoneros Union Laguna","Sultanes de Monterrey",0.457938014325284,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846702,2026-04-18,"Leones de Yucatan","Bravos de Leon",0.459189050054722,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846803,2026-04-18,"Olmecas de Tabasco","Tigres de Quintana Roo",0.477161447002774,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846146,2026-04-18,"Caliente de Durango","Dorados de Chihuahua",0.498303102554607,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846598,2026-04-19,"Pericos de Puebla","Guerreros de Oaxaca",0.513308042999182,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846138,2026-04-19,"Caliente de Durango","Dorados de Chihuahua",0.497323136740239,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-845958,2026-04-19,"Charros de Jalisco","Acereros del Norte",0.560553319192227,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846699,2026-04-19,"Leones de Yucatan","Bravos de Leon",0.429826745927636,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846508,2026-04-19,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.538863933548754,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846787,2026-04-19,"Olmecas de Tabasco","Tigres de Quintana Roo",0.483551954532505,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846047,2026-04-19,"El Aguila de Veracruz","Conspiradores de Queretaro",0.455417925339206,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846745,2026-04-19,"Algodoneros Union Laguna","Sultanes de Monterrey",0.46496579534474,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846750,2026-04-20,"Algodoneros Union Laguna","Toros de Tijuana",0.524457856607429,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846051,2026-04-21,"El Aguila de Veracruz","Olmecas de Tabasco",0.499325511112223,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846600,2026-04-21,"Pericos de Puebla","Conspiradores de Queretaro",0.44464308554736,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846420,2026-04-21,"Tecos de los Dos Laredos","Charros de Jalisco",0.437885997814838,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846505,2026-04-21,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.455742550393516,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-846691,2026-04-21,"Leones de Yucatan","Diablos Rojos del Mexico",0.589602026663046,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846332,2026-04-21,"Sultanes de Monterrey","Caliente de Durango",0.537172348790094,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846748,2026-04-21,"Algodoneros Union Laguna","Toros de Tijuana",0.43550769409294,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846844,2026-04-21,"Bravos de Leon","Guerreros de Oaxaca",0.531146064003382,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846554,2026-04-21,"Piratas de Campeche","Tigres de Quintana Roo",0.520189111243578,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846371,2026-04-21,"Acereros del Norte","Dorados de Chihuahua",0.596831950409526,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846416,2026-04-22,"Tecos de los Dos Laredos","Charros de Jalisco",0.437159808028991,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846555,2026-04-22,"Piratas de Campeche","Tigres de Quintana Roo",0.50919849428145,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846053,2026-04-22,"El Aguila de Veracruz","Olmecas de Tabasco",0.502306313925011,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846513,2026-04-22,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.575775850961424,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846693,2026-04-22,"Leones de Yucatan","Diablos Rojos del Mexico",0.551715846554518,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846843,2026-04-22,"Bravos de Leon","Guerreros de Oaxaca",0.50421503063303,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846325,2026-04-22,"Sultanes de Monterrey","Caliente de Durango",0.503119425481841,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846741,2026-04-22,"Algodoneros Union Laguna","Toros de Tijuana",0.525941370461468,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846368,2026-04-22,"Acereros del Norte","Dorados de Chihuahua",0.584691853001789,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846606,2026-04-23,"Pericos de Puebla","Conspiradores de Queretaro",0.56815460059728,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846599,2026-04-23,"Pericos de Puebla","Conspiradores de Queretaro",0.58764754474018,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846553,2026-04-23,"Piratas de Campeche","Tigres de Quintana Roo",0.526621360235697,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846055,2026-04-23,"El Aguila de Veracruz","Olmecas de Tabasco",0.472156022968425,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846408,2026-04-23,"Tecos de los Dos Laredos","Charros de Jalisco",0.504691884808298,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846502,2026-04-23,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.499439690636623,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846698,2026-04-23,"Leones de Yucatan","Diablos Rojos del Mexico",0.499155079688525,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846845,2026-04-23,"Bravos de Leon","Guerreros de Oaxaca",0.502380867324252,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846318,2026-04-23,"Sultanes de Monterrey","Caliente de Durango",0.567689099659476,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846367,2026-04-23,"Acereros del Norte","Dorados de Chihuahua",0.460036461796144,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846190,2026-04-24,"Guerreros de Oaxaca","Olmecas de Tabasco",0.533190701892443,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846407,2026-04-24,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.560658386649779,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846556,2026-04-24,"Piratas de Campeche","Pericos de Puebla",0.412981486617338,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846749,2026-04-24,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.475303728574245,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846282,2026-04-24,"Tigres de Quintana Roo","Bravos de Leon",0.480852228638247,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846695,2026-04-24,"Leones de Yucatan","El Aguila de Veracruz",0.526523965945937,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-845959,2026-04-24,"Charros de Jalisco","Caliente de Durango",0.537379257783463,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846225,2026-04-24,"Dorados de Chihuahua","Sultanes de Monterrey",0.541683117550259,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846007,2026-04-24,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.466187789140446,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846103,2026-04-24,"Toros de Tijuana","Acereros del Norte",0.540879044095717,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846192,2026-04-25,"Guerreros de Oaxaca","Olmecas de Tabasco",0.526474538242795,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846273,2026-04-25,"Tigres de Quintana Roo","Bravos de Leon",0.483430913269864,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846226,2026-04-25,"Dorados de Chihuahua","Sultanes de Monterrey",0.404643224879671,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846004,2026-04-25,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.427937223781991,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-845957,2026-04-25,"Charros de Jalisco","Caliente de Durango",0.539672854999442,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846560,2026-04-25,"Piratas de Campeche","Pericos de Puebla",0.390182409516707,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846746,2026-04-25,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.460015254977458,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846412,2026-04-25,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.522210423940779,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846696,2026-04-25,"Leones de Yucatan","El Aguila de Veracruz",0.498034821149392,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846092,2026-04-25,"Toros de Tijuana","Acereros del Norte",0.535684741513797,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846180,2026-04-26,"Guerreros de Oaxaca","Olmecas de Tabasco",0.520483557124691,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846277,2026-04-26,"Tigres de Quintana Roo","Bravos de Leon",0.482179864405455,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846227,2026-04-26,"Dorados de Chihuahua","Sultanes de Monterrey",0.465901761059382,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846005,2026-04-26,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.486449361025878,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-845961,2026-04-26,"Charros de Jalisco","Caliente de Durango",0.500303755097846,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846692,2026-04-26,"Leones de Yucatan","El Aguila de Veracruz",0.515598807390584,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846094,2026-04-26,"Toros de Tijuana","Acereros del Norte",0.539834260518002,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846552,2026-04-26,"Piratas de Campeche","Pericos de Puebla",0.489733825039592,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846744,2026-04-26,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.544087588964945,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846413,2026-04-26,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.477001693008517,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846276,2026-04-27,"Tigres de Quintana Roo","Leones de Yucatan",0.434509060982242,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846274,2026-04-28,"Tigres de Quintana Roo","Leones de Yucatan",0.556459570991548,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846547,2026-04-28,"Piratas de Campeche","Diablos Rojos del Mexico",0.475191617014922,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846601,2026-04-28,"Pericos de Puebla","Guerreros de Oaxaca",0.601573215660185,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846230,2026-04-28,"Dorados de Chihuahua","Charros de Jalisco",0.447063561227054,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846141,2026-04-28,"Caliente de Durango","Toros de Tijuana",0.405492062886504,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846649,2026-04-28,"Saraperos de Saltillo","Algodoneros Union Laguna",0.512149984383359,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846501,2026-04-28,"Rieleros de Aguascalientes","Acereros del Norte",0.568229165691745,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846323,2026-04-28,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.475739619643269,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846842,2026-04-28,"Bravos de Leon","El Aguila de Veracruz",0.574470541125035,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846795,2026-04-28,"Olmecas de Tabasco","Conspiradores de Queretaro",0.446276916935978,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846275,2026-04-29,"Tigres de Quintana Roo","Leones de Yucatan",0.498357062732709,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846548,2026-04-29,"Piratas de Campeche","Diablos Rojos del Mexico",0.486809869815442,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846603,2026-04-29,"Pericos de Puebla","Guerreros de Oaxaca",0.479620591971093,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846232,2026-04-29,"Dorados de Chihuahua","Charros de Jalisco",0.4536896759164,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846144,2026-04-29,"Caliente de Durango","Toros de Tijuana",0.506786465755979,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846645,2026-04-29,"Saraperos de Saltillo","Algodoneros Union Laguna",0.483106624141252,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846500,2026-04-29,"Rieleros de Aguascalientes","Acereros del Norte",0.456754527839568,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846317,2026-04-29,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.464053756110687,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846834,2026-04-29,"Bravos de Leon","El Aguila de Veracruz",0.45287818008947,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846791,2026-04-29,"Olmecas de Tabasco","Conspiradores de Queretaro",0.499458458825761,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846546,2026-04-30,"Piratas de Campeche","Diablos Rojos del Mexico",0.490604870665193,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846591,2026-04-30,"Pericos de Puebla","Guerreros de Oaxaca",0.465856070399601,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846229,2026-04-30,"Dorados de Chihuahua","Charros de Jalisco",0.448363576079687,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846131,2026-04-30,"Caliente de Durango","Toros de Tijuana",0.491303362282634,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846646,2026-04-30,"Saraperos de Saltillo","Algodoneros Union Laguna",0.501906053164231,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846499,2026-04-30,"Rieleros de Aguascalientes","Acereros del Norte",0.456970143949392,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846319,2026-04-30,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.520410956950532,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846837,2026-04-30,"Bravos de Leon","El Aguila de Veracruz",0.52329859494813,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846794,2026-04-30,"Olmecas de Tabasco","Conspiradores de Queretaro",0.525602444263391,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846460,2026-05-01,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.566720332739465,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846045,2026-05-01,"El Aguila de Veracruz","Tigres de Quintana Roo",0.556919092297216,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846006,2026-05-01,"Conspiradores de Queretaro","Piratas de Campeche",0.553957483498297,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846790,2026-05-01,"Olmecas de Tabasco","Bravos de Leon",0.550730522823184,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846690,2026-05-01,"Leones de Yucatan","Pericos de Puebla",0.44950365189851,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846735,2026-05-01,"Algodoneros Union Laguna","Dorados de Chihuahua",0.469293007718263,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846650,2026-05-01,"Saraperos de Saltillo","Caliente de Durango",0.428558770298369,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846324,2026-05-01,"Sultanes de Monterrey","Charros de Jalisco",0.509508512575277,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846090,2026-05-01,"Toros de Tijuana","Rieleros de Aguascalientes",0.537230376199961,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846463,2026-05-02,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.543577133651746,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846321,2026-05-02,"Sultanes de Monterrey","Charros de Jalisco",0.516437579098716,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846370,2026-05-02,"Acereros del Norte","Tecos de los Dos Laredos",0.505786738841487,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846366,2026-05-02,"Acereros del Norte","Tecos de los Dos Laredos",0.500323116368164,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846653,2026-05-02,"Saraperos de Saltillo","Caliente de Durango",0.428890697727666,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846003,2026-05-02,"Conspiradores de Queretaro","Piratas de Campeche",0.477136562223061,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846740,2026-05-02,"Algodoneros Union Laguna","Dorados de Chihuahua",0.493786953240067,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846793,2026-05-02,"Olmecas de Tabasco","Bravos de Leon",0.548032819633218,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846697,2026-05-02,"Leones de Yucatan","Pericos de Puebla",0.453814223433025,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846091,2026-05-02,"Toros de Tijuana","Rieleros de Aguascalientes",0.570237593661617,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846452,2026-05-03,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.53146577100313,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846648,2026-05-03,"Saraperos de Saltillo","Caliente de Durango",0.484699971559404,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846040,2026-05-03,"El Aguila de Veracruz","Tigres de Quintana Roo",0.553141687104488,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846041,2026-05-03,"El Aguila de Veracruz","Tigres de Quintana Roo",0.51633944127506,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846001,2026-05-03,"Conspiradores de Queretaro","Piratas de Campeche",0.492864402897621,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846320,2026-05-03,"Sultanes de Monterrey","Charros de Jalisco",0.524336032669089,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846792,2026-05-03,"Olmecas de Tabasco","Bravos de Leon",0.44992242614026,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846694,2026-05-03,"Leones de Yucatan","Pericos de Puebla",0.495125410578222,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846369,2026-05-03,"Acereros del Norte","Tecos de los Dos Laredos",0.528813141759581,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846739,2026-05-03,"Algodoneros Union Laguna","Dorados de Chihuahua",0.490220585700561,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846089,2026-05-03,"Toros de Tijuana","Rieleros de Aguascalientes",0.580017083020675,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846642,2026-05-04,"Saraperos de Saltillo","Acereros del Norte",0.466877301272612,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846594,2026-05-05,"Pericos de Puebla","Tigres de Quintana Roo",0.551177867427097,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846414,2026-05-05,"Tecos de los Dos Laredos","Caliente de Durango",0.470414957126971,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846453,2026-05-05,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.573769434865542,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846000,2026-05-05,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.477517274475642,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846789,2026-05-05,"Olmecas de Tabasco","Leones de Yucatan",0.519709294326379,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846838,2026-05-05,"Bravos de Leon","Piratas de Campeche",0.506213550973329,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846641,2026-05-05,"Saraperos de Saltillo","Acereros del Norte",0.472634334228066,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846497,2026-05-05,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.59403871726819,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-845956,2026-05-05,"Charros de Jalisco","Algodoneros Union Laguna",0.520636806988129,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846096,2026-05-05,"Toros de Tijuana","Sultanes de Monterrey",0.521533167966885,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846595,2026-05-06,"Pericos de Puebla","Tigres de Quintana Roo",0.562907220474551,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846410,2026-05-06,"Tecos de los Dos Laredos","Caliente de Durango",0.481773999412841,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846455,2026-05-06,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.566375129262795,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846788,2026-05-06,"Olmecas de Tabasco","Leones de Yucatan",0.566292607930797,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846833,2026-05-06,"Bravos de Leon","Piratas de Campeche",0.498725727180844,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846644,2026-05-06,"Saraperos de Saltillo","Acereros del Norte",0.49219609612945,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846504,2026-05-06,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.572216970438463,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-845954,2026-05-06,"Charros de Jalisco","Algodoneros Union Laguna",0.540071046219266,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846087,2026-05-06,"Toros de Tijuana","Sultanes de Monterrey",0.508069497673254,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-845996,2026-05-07,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.429977368162398,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846002,2026-05-07,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.455461821658968,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846592,2026-05-07,"Pericos de Puebla","Tigres de Quintana Roo",0.549457454642642,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846409,2026-05-07,"Tecos de los Dos Laredos","Caliente de Durango",0.503877900399403,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846451,2026-05-07,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.564033823450424,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846786,2026-05-07,"Olmecas de Tabasco","Leones de Yucatan",0.550640781232717,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846836,2026-05-07,"Bravos de Leon","Piratas de Campeche",0.48171858685948,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846498,2026-05-07,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.575409386042439,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-845953,2026-05-07,"Charros de Jalisco","Algodoneros Union Laguna",0.513820167770698,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846095,2026-05-07,"Toros de Tijuana","Sultanes de Monterrey",0.456823522229182,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846271,2026-05-08,"Tigres de Quintana Roo","Olmecas de Tabasco",0.475941529620658,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846231,2026-05-08,"Dorados de Chihuahua","Saraperos de Saltillo",0.514481426141542,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846181,2026-05-08,"Guerreros de Oaxaca","Piratas de Campeche",0.416206417150493,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-845999,2026-05-08,"Conspiradores de Queretaro","El Aguila de Veracruz",0.521060814010533,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846136,2026-05-08,"Caliente de Durango","Algodoneros Union Laguna",0.41789930668146,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846686,2026-05-08,"Leones de Yucatan","Bravos de Leon",0.400625781004129,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-845955,2026-05-08,"Charros de Jalisco","Rieleros de Aguascalientes",0.506526667239835,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846364,2026-05-08,"Acereros del Norte","Sultanes de Monterrey",0.53849177627939,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846596,2026-05-09,"Pericos de Puebla","Diablos Rojos del Mexico",0.509185384557668,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846182,2026-05-09,"Guerreros de Oaxaca","Piratas de Campeche",0.533035190503968,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846132,2026-05-09,"Caliente de Durango","Algodoneros Union Laguna",0.480017629813877,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846406,2026-05-09,"Tecos de los Dos Laredos","Toros de Tijuana",0.426978141198848,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846411,2026-05-09,"Tecos de los Dos Laredos","Toros de Tijuana",0.456097151683557,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846267,2026-05-09,"Tigres de Quintana Roo","Olmecas de Tabasco",0.455671250866488,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-845952,2026-05-09,"Charros de Jalisco","Rieleros de Aguascalientes",0.488105934615269,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-845997,2026-05-09,"Conspiradores de Queretaro","El Aguila de Veracruz",0.537335996005955,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846689,2026-05-09,"Leones de Yucatan","Bravos de Leon",0.388832837356824,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846228,2026-05-09,"Dorados de Chihuahua","Saraperos de Saltillo",0.577695650533846,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846365,2026-05-09,"Acereros del Norte","Sultanes de Monterrey",0.53783280022959,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846597,2026-05-10,"Pericos de Puebla","Diablos Rojos del Mexico",0.48408151580513,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846134,2026-05-10,"Caliente de Durango","Algodoneros Union Laguna",0.49261892708344,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846266,2026-05-10,"Tigres de Quintana Roo","Olmecas de Tabasco",0.451682215811924,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846185,2026-05-10,"Guerreros de Oaxaca","Piratas de Campeche",0.446296490300166,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-845951,2026-05-10,"Charros de Jalisco","Rieleros de Aguascalientes",0.451864481260963,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-845998,2026-05-10,"Conspiradores de Queretaro","El Aguila de Veracruz",0.52890885274795,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846683,2026-05-10,"Leones de Yucatan","Bravos de Leon",0.428087203786914,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846361,2026-05-10,"Acereros del Norte","Sultanes de Monterrey",0.545249241244891,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846233,2026-05-10,"Dorados de Chihuahua","Saraperos de Saltillo",0.51090349129757,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846401,2026-05-10,"Tecos de los Dos Laredos","Toros de Tijuana",0.38245088888072,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846186,2026-05-11,"El Aguila de Veracruz","Guerreros de Oaxaca",0.498781125334394,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846270,2026-05-12,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.451427542324786,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846590,2026-05-12,"Pericos de Puebla","Bravos de Leon",0.551953402258071,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846549,2026-05-12,"Piratas de Campeche","Leones de Yucatan",0.46684584002519,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846179,2026-05-12,"El Aguila de Veracruz","Guerreros de Oaxaca",0.49609190380572,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846129,2026-05-12,"Caliente de Durango","Acereros del Norte",0.527780408294633,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846785,2026-05-12,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.505347556483583,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846738,2026-05-12,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.49560725051532,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846322,2026-05-12,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.555177621056975,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846638,2026-05-12,"Saraperos de Saltillo","Charros de Jalisco",0.520932420453231,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-846088,2026-05-12,"Toros de Tijuana","Dorados de Chihuahua",0.574698556023497,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846272,2026-05-13,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.525507893841402,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846589,2026-05-13,"Pericos de Puebla","Bravos de Leon",0.530609799274523,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846550,2026-05-13,"Piratas de Campeche","Leones de Yucatan",0.487992087153437,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846184,2026-05-13,"El Aguila de Veracruz","Guerreros de Oaxaca",0.506747131947756,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846137,2026-05-13,"Caliente de Durango","Acereros del Norte",0.393885095388153,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846783,2026-05-13,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.535174067759954,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846736,2026-05-13,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.438551313687672,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846315,2026-05-13,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.554453411205694,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846637,2026-05-13,"Saraperos de Saltillo","Charros de Jalisco",0.471838339045954,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846093,2026-05-13,"Toros de Tijuana","Dorados de Chihuahua",0.625811775968525,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846265,2026-05-14,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.521219758694948,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846584,2026-05-14,"Pericos de Puebla","Bravos de Leon",0.513629719543377,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846545,2026-05-14,"Piratas de Campeche","Leones de Yucatan",0.52452066414591,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846133,2026-05-14,"Caliente de Durango","Acereros del Norte",0.51757907664455,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846784,2026-05-14,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.523105372108794,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846737,2026-05-14,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.484763816945515,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846316,2026-05-14,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.567510855588526,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846643,2026-05-14,"Saraperos de Saltillo","Charros de Jalisco",0.519479714834259,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846085,2026-05-14,"Toros de Tijuana","Dorados de Chihuahua",0.560917771949033,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846447,2026-05-15,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.543173678288873,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846404,2026-05-15,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.540673329857745,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846043,2026-05-15,"El Aguila de Veracruz","Pericos de Puebla",0.483156023393258,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-845994,2026-05-15,"Conspiradores de Queretaro","Bravos de Leon",0.465923942373169,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846128,2026-05-15,"Caliente de Durango","Rieleros de Aguascalientes",0.537281706551161,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846778,2026-05-15,"Olmecas de Tabasco","Piratas de Campeche",0.499210213708124,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846309,2026-05-15,"Sultanes de Monterrey","Algodoneros Union Laguna",0.480168634179925,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846682,2026-05-15,"Leones de Yucatan","Guerreros de Oaxaca",0.435732000556952,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846362,2026-05-15,"Acereros del Norte","Charros de Jalisco",0.481334156778098,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846078,2026-05-15,"Toros de Tijuana","Saraperos de Saltillo",0.581011046399045,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846448,2026-05-16,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.562210423771766,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846314,2026-05-16,"Sultanes de Monterrey","Algodoneros Union Laguna",0.481864973729889,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846039,2026-05-16,"El Aguila de Veracruz","Pericos de Puebla",0.448804549301977,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-845995,2026-05-16,"Conspiradores de Queretaro","Bravos de Leon",0.511834143155509,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846402,2026-05-16,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.59238556348516,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846782,2026-05-16,"Olmecas de Tabasco","Piratas de Campeche",0.578165550444351,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846681,2026-05-16,"Leones de Yucatan","Guerreros de Oaxaca",0.446132192549377,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846135,2026-05-16,"Caliente de Durango","Rieleros de Aguascalientes",0.559167760946981,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846080,2026-05-16,"Toros de Tijuana","Saraperos de Saltillo",0.551665319729267,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846363,2026-05-16,"Acereros del Norte","Charros de Jalisco",0.531748045883344,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846449,2026-05-17,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.562927936457518,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846130,2026-05-17,"Caliente de Durango","Rieleros de Aguascalientes",0.561857636577649,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846313,2026-05-17,"Sultanes de Monterrey","Algodoneros Union Laguna",0.488007953922023,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-845992,2026-05-17,"Conspiradores de Queretaro","Bravos de Leon",0.46322382684753,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846781,2026-05-17,"Olmecas de Tabasco","Piratas de Campeche",0.521930912294266,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846403,2026-05-17,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.552910109575448,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846684,2026-05-17,"Leones de Yucatan","Guerreros de Oaxaca",0.437266180892839,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846044,2026-05-17,"El Aguila de Veracruz","Pericos de Puebla",0.548500109566036,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846358,2026-05-17,"Acereros del Norte","Charros de Jalisco",0.529179930679372,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846082,2026-05-17,"Toros de Tijuana","Saraperos de Saltillo",0.544141908494494,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846839,2026-05-18,"Bravos de Leon","Diablos Rojos del Mexico",0.502877240052662,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846264,2026-05-19,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.446356189073665,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846582,2026-05-19,"Pericos de Puebla","Olmecas de Tabasco",0.467895441598294,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846217,2026-05-19,"Dorados de Chihuahua","Caliente de Durango",0.49569352578264,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846551,2026-05-19,"Piratas de Campeche","El Aguila de Veracruz",0.422063399619826,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-845993,2026-05-19,"Conspiradores de Queretaro","Leones de Yucatan",0.555853895620986,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846840,2026-05-19,"Bravos de Leon","Diablos Rojos del Mexico",0.553851288692976,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846496,2026-05-19,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.532806820336715,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846734,2026-05-19,"Algodoneros Union Laguna","Acereros del Norte",0.457017831294165,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846640,2026-05-19,"Saraperos de Saltillo","Sultanes de Monterrey",0.493913734317628,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-845950,2026-05-19,"Charros de Jalisco","Toros de Tijuana",0.577842091902042,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846269,2026-05-20,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.479283037907731,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846581,2026-05-20,"Pericos de Puebla","Olmecas de Tabasco",0.462529868488111,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846544,2026-05-20,"Piratas de Campeche","El Aguila de Veracruz",0.425052186156325,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846841,2026-05-20,"Bravos de Leon","Diablos Rojos del Mexico",0.446321688362623,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846503,2026-05-20,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.579406253941102,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846733,2026-05-20,"Algodoneros Union Laguna","Acereros del Norte",0.448796503512194,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846639,2026-05-20,"Saraperos de Saltillo","Sultanes de Monterrey",0.486143253447677,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-845949,2026-05-20,"Charros de Jalisco","Toros de Tijuana",0.54786107724762,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846216,2026-05-20,"Dorados de Chihuahua","Caliente de Durango",0.490789745030119,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846268,2026-05-21,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.500788096243959,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846586,2026-05-21,"Pericos de Puebla","Olmecas de Tabasco",0.483145084601726,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846543,2026-05-21,"Piratas de Campeche","El Aguila de Veracruz",0.464650225888682,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-845989,2026-05-21,"Conspiradores de Queretaro","Leones de Yucatan",0.547064924753361,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846495,2026-05-21,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.51675070912456,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846732,2026-05-21,"Algodoneros Union Laguna","Acereros del Norte",0.486708690954376,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846636,2026-05-21,"Saraperos de Saltillo","Sultanes de Monterrey",0.500417743541857,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-845946,2026-05-21,"Charros de Jalisco","Toros de Tijuana",0.484568523811646,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846221,2026-05-21,"Dorados de Chihuahua","Caliente de Durango",0.533312178820567,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846585,2026-05-22,"Pericos de Puebla","Tigres de Quintana Roo",0.478877925094212,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846219,2026-05-22,"Dorados de Chihuahua","Acereros del Norte",0.518261208423798,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846038,2026-05-22,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.419426023744704,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846685,2026-05-22,"Leones de Yucatan","Olmecas de Tabasco",0.463614382909707,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846835,2026-05-22,"Bravos de Leon","Piratas de Campeche",0.495045629766954,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846486,2026-05-22,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.477637954076613,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846311,2026-05-22,"Sultanes de Monterrey","Caliente de Durango",0.598350056871235,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-845947,2026-05-22,"Charros de Jalisco","Tecos de los Dos Laredos",0.490818993062621,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846079,2026-05-22,"Toros de Tijuana","Algodoneros Union Laguna",0.590154383199251,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846587,2026-05-23,"Pericos de Puebla","Tigres de Quintana Roo",0.437142088862877,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846183,2026-05-23,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.521130099320047,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846177,2026-05-23,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.529757387617238,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846308,2026-05-23,"Sultanes de Monterrey","Caliente de Durango",0.60877667532465,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846824,2026-05-23,"Bravos de Leon","Piratas de Campeche",0.49199149480886,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846494,2026-05-23,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.455017095884851,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846046,2026-05-23,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.407812138189466,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-845948,2026-05-23,"Charros de Jalisco","Tecos de los Dos Laredos",0.540657736936945,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846687,2026-05-23,"Leones de Yucatan","Olmecas de Tabasco",0.534996049339773,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846220,2026-05-23,"Dorados de Chihuahua","Acereros del Norte",0.434688468436923,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846081,2026-05-23,"Toros de Tijuana","Algodoneros Union Laguna",0.596180404014504,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846588,2026-05-24,"Pericos de Puebla","Tigres de Quintana Roo",0.562184753771571,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846310,2026-05-24,"Sultanes de Monterrey","Caliente de Durango",0.603303618552458,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846178,2026-05-24,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.538880797111214,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-845944,2026-05-24,"Charros de Jalisco","Tecos de los Dos Laredos",0.515533833740199,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846688,2026-05-24,"Leones de Yucatan","Olmecas de Tabasco",0.456505495448917,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846825,2026-05-24,"Bravos de Leon","Piratas de Campeche",0.531334461630364,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846490,2026-05-24,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.54824587669971,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846224,2026-05-24,"Dorados de Chihuahua","Acereros del Norte",0.49751742960178,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846042,2026-05-24,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.424125653026073,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846086,2026-05-24,"Toros de Tijuana","Algodoneros Union Laguna",0.582641339788492,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-845945,2026-05-25,"Charros de Jalisco","Sultanes de Monterrey",0.490026903670624,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846405,2026-05-26,"Tecos de los Dos Laredos","Acereros del Norte",0.436211964224908,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846542,2026-05-26,"Piratas de Campeche","Tigres de Quintana Roo",0.524090106398521,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846168,2026-05-26,"Guerreros de Oaxaca","Bravos de Leon",0.524896053906234,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-845987,2026-05-26,"Conspiradores de Queretaro","Pericos de Puebla",0.621652920620733,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846121,2026-05-26,"Caliente de Durango","Saraperos de Saltillo",0.590684465709782,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846680,2026-05-26,"Leones de Yucatan","Diablos Rojos del Mexico",0.580564516216079,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846729,2026-05-26,"Algodoneros Union Laguna","Dorados de Chihuahua",0.546125126967625,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846492,2026-05-26,"Rieleros de Aguascalientes","Toros de Tijuana",0.507625328170733,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846779,2026-05-26,"Olmecas de Tabasco","El Aguila de Veracruz",0.560953541888198,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-845943,2026-05-26,"Charros de Jalisco","Sultanes de Monterrey",0.519716695794667,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846400,2026-05-27,"Tecos de los Dos Laredos","Acereros del Norte",0.513054979436557,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-845991,2026-05-27,"Conspiradores de Queretaro","Pericos de Puebla",0.479654380163333,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846122,2026-05-27,"Caliente de Durango","Saraperos de Saltillo",0.553641327422763,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846730,2026-05-27,"Algodoneros Union Laguna","Dorados de Chihuahua",0.536580857320535,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846493,2026-05-27,"Rieleros de Aguascalientes","Toros de Tijuana",0.525661447904072,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846780,2026-05-27,"Olmecas de Tabasco","El Aguila de Veracruz",0.584075751850003,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-845942,2026-05-27,"Charros de Jalisco","Sultanes de Monterrey",0.528930730122498,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846175,2026-05-28,"Guerreros de Oaxaca","Bravos de Leon",0.425751570942903,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846170,2026-05-28,"Guerreros de Oaxaca","Bravos de Leon",0.55571894293274,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846675,2026-05-28,"Leones de Yucatan","Diablos Rojos del Mexico",0.463038476591787,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846679,2026-05-28,"Leones de Yucatan","Diablos Rojos del Mexico",0.553224424007915,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846392,2026-05-28,"Tecos de los Dos Laredos","Acereros del Norte",0.468662298614722,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-845990,2026-05-28,"Conspiradores de Queretaro","Pericos de Puebla",0.459485501502004,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846728,2026-05-28,"Algodoneros Union Laguna","Dorados de Chihuahua",0.506836259749303,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846487,2026-05-28,"Rieleros de Aguascalientes","Toros de Tijuana",0.505111942496185,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
-846773,2026-05-28,"Olmecas de Tabasco","El Aguila de Veracruz",0.549562332146225,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846583,2026-05-29,"Pericos de Puebla","Piratas de Campeche",0.400739814813701,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846218,2026-05-29,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.511338374493217,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846031,2026-05-29,"El Aguila de Veracruz","Leones de Yucatan",0.398485607383009,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846450,2026-05-29,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.582628235439374,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846120,2026-05-29,"Caliente de Durango","Tecos de los Dos Laredos",0.54635758410751,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846823,2026-05-29,"Bravos de Leon","Tigres de Quintana Roo",0.476955796422141,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846727,2026-05-29,"Algodoneros Union Laguna","Charros de Jalisco",0.461888956656166,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846360,2026-05-29,"Acereros del Norte","Saraperos de Saltillo",0.477760387326088,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-846774,2026-05-29,"Olmecas de Tabasco","Guerreros de Oaxaca",0.537628564444726,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846084,2026-05-29,"Toros de Tijuana","Sultanes de Monterrey",0.560116494865839,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846575,2026-05-30,"Pericos de Puebla","Piratas de Campeche",0.460539526598969,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846456,2026-05-30,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.606912934419604,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846826,2026-05-30,"Bravos de Leon","Tigres de Quintana Roo",0.437058951263053,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846029,2026-05-30,"El Aguila de Veracruz","Leones de Yucatan",0.54744178062583,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846725,2026-05-30,"Algodoneros Union Laguna","Charros de Jalisco",0.508679558367646,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846222,2026-05-30,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.553275203678736,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846772,2026-05-30,"Olmecas de Tabasco","Guerreros de Oaxaca",0.544388475351852,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846119,2026-05-30,"Caliente de Durango","Tecos de los Dos Laredos",0.532639911181812,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846353,2026-05-30,"Acereros del Norte","Saraperos de Saltillo",0.52609876335256,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846083,2026-05-30,"Toros de Tijuana","Sultanes de Monterrey",0.48509075911097,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846574,2026-05-31,"Pericos de Puebla","Piratas de Campeche",0.519601879184855,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846118,2026-05-31,"Caliente de Durango","Tecos de los Dos Laredos",0.536811924622832,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846454,2026-05-31,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.61499780721678,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846223,2026-05-31,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.493052916202568,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
-846355,2026-05-31,"Acereros del Norte","Saraperos de Saltillo",0.502792621614185,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846827,2026-05-31,"Bravos de Leon","Tigres de Quintana Roo",0.484373015723829,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846771,2026-05-31,"Olmecas de Tabasco","Guerreros de Oaxaca",0.57300351707628,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846036,2026-05-31,"El Aguila de Veracruz","Leones de Yucatan",0.568171659431592,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846077,2026-05-31,"Toros de Tijuana","Sultanes de Monterrey",0.454575854485338,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846724,2026-05-31,"Algodoneros Union Laguna","Charros de Jalisco",0.479594343917193,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846351,2026-06-01,"Acereros del Norte","Algodoneros Union Laguna",0.446076765634743,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846260,2026-06-02,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.528100120281742,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846446,2026-06-02,"Diablos Rojos del Mexico","Bravos de Leon",0.476892141538149,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846391,2026-06-02,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.583706583796443,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846539,2026-06-02,"Piratas de Campeche","El Aguila de Veracruz",0.492511444024887,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846125,2026-06-02,"Caliente de Durango","Dorados de Chihuahua",0.436736107111121,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846770,2026-06-02,"Olmecas de Tabasco","Pericos de Puebla",0.43444538716429,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846629,2026-06-02,"Saraperos de Saltillo","Sultanes de Monterrey",0.4405956096321,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846352,2026-06-02,"Acereros del Norte","Algodoneros Union Laguna",0.49226034234277,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846076,2026-06-02,"Toros de Tijuana","Charros de Jalisco",0.507801708437725,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846678,2026-06-03,"Leones de Yucatan","Conspiradores de Queretaro",0.421665756591313,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846674,2026-06-03,"Leones de Yucatan","Conspiradores de Queretaro",0.426895459329493,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846394,2026-06-03,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.51512343924219,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846262,2026-06-03,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.614998217253369,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846440,2026-06-03,"Diablos Rojos del Mexico","Bravos de Leon",0.501173073983629,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846538,2026-06-03,"Piratas de Campeche","El Aguila de Veracruz",0.488470715368987,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846126,2026-06-03,"Caliente de Durango","Dorados de Chihuahua",0.421416434287989,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-846626,2026-06-03,"Saraperos de Saltillo","Sultanes de Monterrey",0.488778626279505,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846354,2026-06-03,"Acereros del Norte","Algodoneros Union Laguna",0.439468879648217,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846069,2026-06-03,"Toros de Tijuana","Charros de Jalisco",0.608489983104029,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846776,2026-06-04,"Olmecas de Tabasco","Pericos de Puebla",0.5015687164957,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846775,2026-06-04,"Olmecas de Tabasco","Pericos de Puebla",0.426249358722106,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846398,2026-06-04,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.500307785519267,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846257,2026-06-04,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.512809184702728,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846441,2026-06-04,"Diablos Rojos del Mexico","Bravos de Leon",0.52357759843922,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846124,2026-06-04,"Caliente de Durango","Dorados de Chihuahua",0.505604069538035,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846673,2026-06-04,"Leones de Yucatan","Conspiradores de Queretaro",0.492348530944916,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846072,2026-06-04,"Toros de Tijuana","Charros de Jalisco",0.509227503181858,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846258,2026-06-05,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.516563042817637,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846537,2026-06-05,"Piratas de Campeche","Leones de Yucatan",0.561235409469581,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846828,2026-06-05,"Bravos de Leon","Pericos de Puebla",0.519973082752915,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846312,2026-06-05,"Sultanes de Monterrey","Acereros del Norte",0.439583653924847,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846631,2026-06-05,"Saraperos de Saltillo","Dorados de Chihuahua",0.53192828134407,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846722,2026-06-05,"Algodoneros Union Laguna","Caliente de Durango",0.547175177788489,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846488,2026-06-05,"Rieleros de Aguascalientes","Charros de Jalisco",0.491669153616694,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846075,2026-06-05,"Toros de Tijuana","Tecos de los Dos Laredos",0.609331948603717,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846443,2026-06-06,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.525350231341762,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846445,2026-06-06,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.558353864852026,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846301,2026-06-06,"Sultanes de Monterrey","Acereros del Norte",0.442854966097999,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846172,2026-06-06,"Guerreros de Oaxaca","El Aguila de Veracruz",0.471860670795316,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846259,2026-06-06,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.451053634699551,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846830,2026-06-06,"Bravos de Leon","Pericos de Puebla",0.454063374262067,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846630,2026-06-06,"Saraperos de Saltillo","Dorados de Chihuahua",0.553723088203123,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846489,2026-06-06,"Rieleros de Aguascalientes","Charros de Jalisco",0.446450716419056,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846536,2026-06-06,"Piratas de Campeche","Leones de Yucatan",0.525379513860023,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846726,2026-06-06,"Algodoneros Union Laguna","Caliente de Durango",0.549007573948321,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846070,2026-06-06,"Toros de Tijuana","Tecos de los Dos Laredos",0.653314143476414,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846438,2026-06-07,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.553539148416093,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846300,2026-06-07,"Sultanes de Monterrey","Acereros del Norte",0.471231575372633,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
-846628,2026-06-07,"Saraperos de Saltillo","Dorados de Chihuahua",0.408321398664705,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846173,2026-06-07,"Guerreros de Oaxaca","El Aguila de Veracruz",0.457766408764277,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846261,2026-06-07,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.501847272997339,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846831,2026-06-07,"Bravos de Leon","Pericos de Puebla",0.53700615520526,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846491,2026-06-07,"Rieleros de Aguascalientes","Charros de Jalisco",0.460981154251461,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846073,2026-06-07,"Toros de Tijuana","Tecos de los Dos Laredos",0.630125641061832,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846535,2026-06-07,"Piratas de Campeche","Leones de Yucatan",0.540097451123549,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846723,2026-06-07,"Algodoneros Union Laguna","Caliente de Durango",0.545637519009885,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
-846303,2026-06-08,"Sultanes de Monterrey","Tigres de Quintana Roo",0.463271472774213,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846572,2026-06-09,"Pericos de Puebla","Saraperos de Saltillo",0.417196524191247,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846214,2026-06-09,"Dorados de Chihuahua","Piratas de Campeche",0.458973610464068,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-845986,2026-06-09,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.546642202326557,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846028,2026-06-09,"El Aguila de Veracruz","Toros de Tijuana",0.44300932715625,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846676,2026-06-09,"Leones de Yucatan","Rieleros de Aguascalientes",0.537615975288929,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846829,2026-06-09,"Bravos de Leon","Tecos de los Dos Laredos",0.6031877069237,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846307,2026-06-09,"Sultanes de Monterrey","Tigres de Quintana Roo",0.524492359755742,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846777,2026-06-09,"Olmecas de Tabasco","Caliente de Durango",0.537396396482297,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-845941,2026-06-09,"Charros de Jalisco","Guerreros de Oaxaca",0.403659590279195,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846359,2026-06-09,"Acereros del Norte","Diablos Rojos del Mexico",0.424901252425951,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-845940,2026-06-10,"Charros de Jalisco","Guerreros de Oaxaca",0.50000293758673,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-845939,2026-06-10,"Charros de Jalisco","Guerreros de Oaxaca",0.507103639077134,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846577,2026-06-10,"Pericos de Puebla","Saraperos de Saltillo",0.5675568253445,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846208,2026-06-10,"Dorados de Chihuahua","Piratas de Campeche",0.471615485771165,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-845984,2026-06-10,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.562538426375484,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846030,2026-06-10,"El Aguila de Veracruz","Toros de Tijuana",0.52042113535874,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846677,2026-06-10,"Leones de Yucatan","Rieleros de Aguascalientes",0.519553147100569,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846832,2026-06-10,"Bravos de Leon","Tecos de los Dos Laredos",0.559434121175358,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846306,2026-06-10,"Sultanes de Monterrey","Tigres de Quintana Roo",0.483617497708464,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846769,2026-06-10,"Olmecas de Tabasco","Caliente de Durango",0.535871311384888,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846356,2026-06-10,"Acereros del Norte","Diablos Rojos del Mexico",0.414192085600535,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846579,2026-06-11,"Pericos de Puebla","Saraperos de Saltillo",0.448993556270133,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846212,2026-06-11,"Dorados de Chihuahua","Piratas de Campeche",0.516764098929276,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
-845985,2026-06-11,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.488230386093431,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846034,2026-06-11,"El Aguila de Veracruz","Toros de Tijuana",0.441794607602164,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846815,2026-06-11,"Bravos de Leon","Tecos de los Dos Laredos",0.485715858212537,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-846766,2026-06-11,"Olmecas de Tabasco","Caliente de Durango",0.540880742291187,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846357,2026-06-11,"Acereros del Norte","Diablos Rojos del Mexico",0.544062618726381,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846206,2026-06-12,"Dorados de Chihuahua","Guerreros de Oaxaca",0.400407726394329,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846037,2026-06-12,"El Aguila de Veracruz","Saraperos de Saltillo",0.401719439992687,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-845982,2026-06-12,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.599358413619573,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846822,2026-06-12,"Bravos de Leon","Algodoneros Union Laguna",0.516675809461972,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846765,2026-06-12,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.573642480358145,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846302,2026-06-12,"Sultanes de Monterrey","Piratas de Campeche",0.502910564117377,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846668,2026-06-12,"Leones de Yucatan","Caliente de Durango",0.458116328583267,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846344,2026-06-12,"Acereros del Norte","Tigres de Quintana Roo",0.489885594840649,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-845938,2026-06-12,"Charros de Jalisco","Diablos Rojos del Mexico",0.467603015062952,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846580,2026-06-13,"Pericos de Puebla","Toros de Tijuana",0.560485317453498,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846578,2026-06-13,"Pericos de Puebla","Toros de Tijuana",0.529799792901721,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846304,2026-06-13,"Sultanes de Monterrey","Piratas de Campeche",0.58271543181715,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846821,2026-06-13,"Bravos de Leon","Algodoneros Union Laguna",0.536749985576218,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
-846209,2026-06-13,"Dorados de Chihuahua","Guerreros de Oaxaca",0.515195881027664,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846032,2026-06-13,"El Aguila de Veracruz","Saraperos de Saltillo",0.436456101539617,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-845983,2026-06-13,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.513834386722541,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-845937,2026-06-13,"Charros de Jalisco","Diablos Rojos del Mexico",0.476465835870226,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846767,2026-06-13,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.582028502506368,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846669,2026-06-13,"Leones de Yucatan","Caliente de Durango",0.420300545333988,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846347,2026-06-13,"Acereros del Norte","Tigres de Quintana Roo",0.492823550468939,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-846576,2026-06-14,"Pericos de Puebla","Toros de Tijuana",0.519197852981312,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846305,2026-06-14,"Sultanes de Monterrey","Piratas de Campeche",0.496373024164445,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846213,2026-06-14,"Dorados de Chihuahua","Guerreros de Oaxaca",0.541705611803169,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-845981,2026-06-14,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.505512674849278,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-845936,2026-06-14,"Charros de Jalisco","Diablos Rojos del Mexico",0.40168023546454,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
-846820,2026-06-14,"Bravos de Leon","Algodoneros Union Laguna",0.51111750117214,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846761,2026-06-14,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.594018587712535,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846342,2026-06-14,"Acereros del Norte","Tigres de Quintana Roo",0.574387092051982,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846665,2026-06-14,"Leones de Yucatan","Caliente de Durango",0.468153181718801,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846035,2026-06-14,"El Aguila de Veracruz","Saraperos de Saltillo",0.426666828654663,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
-846439,2026-06-15,"Diablos Rojos del Mexico","Charros de Jalisco",0.603314834379046,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846255,2026-06-16,"Tigres de Quintana Roo","Sultanes de Monterrey",0.520437534775615,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846397,2026-06-16,"Tecos de los Dos Laredos","Leones de Yucatan",0.495609627806241,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846529,2026-06-16,"Piratas de Campeche","Dorados de Chihuahua",0.504043721935543,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846176,2026-06-16,"Guerreros de Oaxaca","Acereros del Norte",0.565375926437196,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846444,2026-06-16,"Diablos Rojos del Mexico","Charros de Jalisco",0.537005882813347,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846123,2026-06-16,"Caliente de Durango","Pericos de Puebla",0.476313058569245,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846731,2026-06-16,"Algodoneros Union Laguna","El Aguila de Veracruz",0.559900471768229,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846484,2026-06-16,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.483077066298012,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846074,2026-06-16,"Toros de Tijuana","Bravos de Leon",0.57886268422286,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846254,2026-06-17,"Tigres de Quintana Roo","Sultanes de Monterrey",0.514496867155747,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846256,2026-06-17,"Tigres de Quintana Roo","Sultanes de Monterrey",0.499269721352761,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
-846635,2026-06-17,"Saraperos de Saltillo","Olmecas de Tabasco",0.461676529085227,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
-846632,2026-06-17,"Saraperos de Saltillo","Olmecas de Tabasco",0.52798072475105,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846719,2026-06-17,"Algodoneros Union Laguna","El Aguila de Veracruz",0.425212131846414,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846716,2026-06-17,"Algodoneros Union Laguna","El Aguila de Veracruz",0.549921326908978,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846396,2026-06-17,"Tecos de los Dos Laredos","Leones de Yucatan",0.432323614759606,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846526,2026-06-17,"Piratas de Campeche","Dorados de Chihuahua",0.487318744414635,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846167,2026-06-17,"Guerreros de Oaxaca","Acereros del Norte",0.572373803062329,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846116,2026-06-17,"Caliente de Durango","Pericos de Puebla",0.548620900812019,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846068,2026-06-17,"Toros de Tijuana","Bravos de Leon",0.592922878377156,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846169,2026-06-18,"Guerreros de Oaxaca","Acereros del Norte",0.502755986884309,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
-846485,2026-06-18,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.472476321761093,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846483,2026-06-18,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.481805542114757,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
-846395,2026-06-18,"Tecos de los Dos Laredos","Leones de Yucatan",0.487738785900327,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846532,2026-06-18,"Piratas de Campeche","Dorados de Chihuahua",0.551028982270769,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846114,2026-06-18,"Caliente de Durango","Pericos de Puebla",0.537100609095984,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846627,2026-06-18,"Saraperos de Saltillo","Olmecas de Tabasco",0.427835997072955,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846071,2026-06-18,"Toros de Tijuana","Bravos de Leon",0.577510902520408,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
-846263,2026-06-19,"Tigres de Quintana Roo","Dorados de Chihuahua",0.536545389062388,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846399,2026-06-19,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.489775224329527,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846530,2026-06-19,"Piratas de Campeche","Acereros del Norte",0.54528726992229,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846431,2026-06-19,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.568669303495495,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846171,2026-06-19,"Guerreros de Oaxaca","Charros de Jalisco",0.454442423043475,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846112,2026-06-19,"Caliente de Durango","Conspiradores de Queretaro",0.553379917918222,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846718,2026-06-19,"Algodoneros Union Laguna","Leones de Yucatan",0.494860200254294,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
-846634,2026-06-19,"Saraperos de Saltillo","Bravos de Leon",0.431637360509636,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846476,2026-06-19,"Rieleros de Aguascalientes","Pericos de Puebla",0.489723843054576,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846067,2026-06-19,"Toros de Tijuana","Olmecas de Tabasco",0.483064667798952,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846437,2026-06-20,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.597055730184419,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846251,2026-06-20,"Tigres de Quintana Roo","Dorados de Chihuahua",0.578132070981947,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846164,2026-06-20,"Guerreros de Oaxaca","Charros de Jalisco",0.5726034493114,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
-846393,2026-06-20,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.44709958606837,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846477,2026-06-20,"Rieleros de Aguascalientes","Pericos de Puebla",0.467048445558264,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
-846527,2026-06-20,"Piratas de Campeche","Acereros del Norte",0.584720912044537,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846714,2026-06-20,"Algodoneros Union Laguna","Leones de Yucatan",0.498160216190298,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846113,2026-06-20,"Caliente de Durango","Conspiradores de Queretaro",0.554638834561045,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846057,2026-06-20,"Toros de Tijuana","Olmecas de Tabasco",0.57219327093594,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846432,2026-06-21,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.581603739421308,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
-846115,2026-06-21,"Caliente de Durango","Conspiradores de Queretaro",0.567914590463532,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
-846252,2026-06-21,"Tigres de Quintana Roo","Dorados de Chihuahua",0.578394008683623,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
-846617,2026-06-21,"Saraperos de Saltillo","Bravos de Leon",0.435045057534352,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846622,2026-06-21,"Saraperos de Saltillo","Bravos de Leon",0.557824491549923,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
-846166,2026-06-21,"Guerreros de Oaxaca","Charros de Jalisco",0.466508287411318,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
-846382,2026-06-21,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.46463295385362,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
-846524,2026-06-21,"Piratas de Campeche","Acereros del Norte",0.556648283579001,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846713,2026-06-21,"Algodoneros Union Laguna","Leones de Yucatan",0.501962004034432,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
-846058,2026-06-21,"Toros de Tijuana","Olmecas de Tabasco",0.488999413220724,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-846531,2026-06-22,"Piratas de Campeche","Diablos Rojos del Mexico",0.538743392188542,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-845935,2026-06-23,"Charros de Jalisco","Saraperos de Saltillo",0.531825163654106,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-845934,2026-06-23,"Charros de Jalisco","Saraperos de Saltillo",0.523340978581559,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
-846667,2026-06-23,"Leones de Yucatan","Tigres de Quintana Roo",0.55692778154985,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
-846664,2026-06-23,"Leones de Yucatan","Tigres de Quintana Roo",0.449733110905796,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
-845977,2026-06-23,"Conspiradores de Queretaro","Olmecas de Tabasco",0.459133119323136,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
-845975,2026-06-23,"Conspiradores de Queretaro","Olmecas de Tabasco",0.571321153434762,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
-846533,2026-06-23,"Piratas de Campeche","Diablos Rojos del Mexico",0.54525947009396,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
-846390,2026-06-23,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.520834304783642,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
-846163,2026-06-23,"Guerreros de Oaxaca","Pericos de Puebla",0.439513430995254,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846215,2026-06-23,"Dorados de Chihuahua","Toros de Tijuana",0.405646221788082,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
-846480,2026-06-23,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.46873302421967,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846819,2026-06-23,"Bravos de Leon","El Aguila de Veracruz",0.403693629970355,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
-846343,2026-06-23,"Acereros del Norte","Caliente de Durango",0.586899279900475,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
-846159,2026-06-24,"Guerreros de Oaxaca","Pericos de Puebla",0.471345474776118,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
-846528,2026-06-24,"Piratas de Campeche","Diablos Rojos del Mexico",0.503081117028026,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
-846211,2026-06-24,"Dorados de Chihuahua","Toros de Tijuana",0.50721203652081,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
-846481,2026-06-24,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.464366120288454,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
-846345,2026-06-24,"Acereros del Norte","Caliente de Durango",0.452784169413271,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
-846818,2026-06-24,"Bravos de Leon","El Aguila de Veracruz",0.577839688115407,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
-846388,2026-06-25,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.534988454309219,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
-845932,2026-06-25,"Charros de Jalisco","Saraperos de Saltillo",0.5196,5.4,4.64,10.04,"Charros de Jalisco",NA,NA,NA
-845976,2026-06-25,"Conspiradores de Queretaro","Olmecas de Tabasco",0.5279,5.25,6.5,11.76,"Conspiradores de Queretaro",NA,NA,NA
-846158,2026-06-25,"Guerreros de Oaxaca","Pericos de Puebla",0.4847,6.68,5.66,12.34,"Pericos de Puebla",NA,NA,NA
-846207,2026-06-25,"Dorados de Chihuahua","Toros de Tijuana",0.4659,3.57,4.9,8.47,"Toros de Tijuana",NA,NA,NA
-846350,2026-06-25,"Acereros del Norte","Caliente de Durango",0.4645,5.64,5.12,10.76,"Caliente de Durango",NA,NA,NA
-846386,2026-06-25,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.5485,4.96,5.05,10.01,"Tecos de los Dos Laredos",NA,NA,NA
-846479,2026-06-25,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.5409,6.05,6.25,12.3,"Rieleros de Aguascalientes",NA,NA,NA
-846670,2026-06-25,"Leones de Yucatan","Tigres de Quintana Roo",0.5153,3.83,3.62,7.46,"Leones de Yucatan",NA,NA,NA
-846817,2026-06-25,"Bravos de Leon","El Aguila de Veracruz",0.5004,7.59,5.31,12.9,"Bravos de Leon",NA,NA,NA
+846459,2026-04-16,"Diablos Rojos del Mexico","Piratas de Campeche",0.511714904894328,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846457,2026-04-17,"Diablos Rojos del Mexico","Piratas de Campeche",0.491587263685493,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846145,2026-04-17,"Caliente de Durango","Dorados de Chihuahua",0.511406046827159,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846605,2026-04-17,"Pericos de Puebla","Guerreros de Oaxaca",0.57749194669414,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846510,2026-04-17,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.546266613454091,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846742,2026-04-17,"Algodoneros Union Laguna","Sultanes de Monterrey",0.41414637505814,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846798,2026-04-17,"Olmecas de Tabasco","Tigres de Quintana Roo",0.484625264935633,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846651,2026-04-17,"Saraperos de Saltillo","Toros de Tijuana",0.451911004642862,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846048,2026-04-17,"El Aguila de Veracruz","Conspiradores de Queretaro",0.537576643170513,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+845960,2026-04-17,"Charros de Jalisco","Acereros del Norte",0.407158993913307,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846701,2026-04-17,"Leones de Yucatan","Bravos de Leon",0.522461501616573,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846458,2026-04-18,"Diablos Rojos del Mexico","Piratas de Campeche",0.488309468127302,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846602,2026-04-18,"Pericos de Puebla","Guerreros de Oaxaca",0.470118814496484,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846507,2026-04-18,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.502131971088703,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846652,2026-04-18,"Saraperos de Saltillo","Toros de Tijuana",0.486225840726342,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+845962,2026-04-18,"Charros de Jalisco","Acereros del Norte",0.527531108622145,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846050,2026-04-18,"El Aguila de Veracruz","Conspiradores de Queretaro",0.461438254242647,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846747,2026-04-18,"Algodoneros Union Laguna","Sultanes de Monterrey",0.435172540409439,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846702,2026-04-18,"Leones de Yucatan","Bravos de Leon",0.391021947482557,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846803,2026-04-18,"Olmecas de Tabasco","Tigres de Quintana Roo",0.464479180860882,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846146,2026-04-18,"Caliente de Durango","Dorados de Chihuahua",0.444107632325116,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846598,2026-04-19,"Pericos de Puebla","Guerreros de Oaxaca",0.544539748750399,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846138,2026-04-19,"Caliente de Durango","Dorados de Chihuahua",0.522162114038736,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+845958,2026-04-19,"Charros de Jalisco","Acereros del Norte",0.581124149181088,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846699,2026-04-19,"Leones de Yucatan","Bravos de Leon",0.42375279960052,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846508,2026-04-19,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.573001361094862,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846787,2026-04-19,"Olmecas de Tabasco","Tigres de Quintana Roo",0.4705172522408,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846047,2026-04-19,"El Aguila de Veracruz","Conspiradores de Queretaro",0.444112242322732,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846745,2026-04-19,"Algodoneros Union Laguna","Sultanes de Monterrey",0.435153903727944,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846750,2026-04-20,"Algodoneros Union Laguna","Toros de Tijuana",0.561070600141484,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846051,2026-04-21,"El Aguila de Veracruz","Olmecas de Tabasco",0.527184987411624,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846600,2026-04-21,"Pericos de Puebla","Conspiradores de Queretaro",0.448710793875539,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846420,2026-04-21,"Tecos de los Dos Laredos","Charros de Jalisco",0.425309453540123,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846505,2026-04-21,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.476135862727162,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+846691,2026-04-21,"Leones de Yucatan","Diablos Rojos del Mexico",0.607492573107578,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846332,2026-04-21,"Sultanes de Monterrey","Caliente de Durango",0.552217925384166,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846748,2026-04-21,"Algodoneros Union Laguna","Toros de Tijuana",0.414276134588951,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846844,2026-04-21,"Bravos de Leon","Guerreros de Oaxaca",0.569521098409933,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846554,2026-04-21,"Piratas de Campeche","Tigres de Quintana Roo",0.564165641856443,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846371,2026-04-21,"Acereros del Norte","Dorados de Chihuahua",0.548517586224248,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846416,2026-04-22,"Tecos de los Dos Laredos","Charros de Jalisco",0.409488080147635,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846555,2026-04-22,"Piratas de Campeche","Tigres de Quintana Roo",0.451391927272685,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846053,2026-04-22,"El Aguila de Veracruz","Olmecas de Tabasco",0.485776135514151,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846513,2026-04-22,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.559622825784641,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846693,2026-04-22,"Leones de Yucatan","Diablos Rojos del Mexico",0.583442778115815,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846843,2026-04-22,"Bravos de Leon","Guerreros de Oaxaca",0.545297972188548,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846325,2026-04-22,"Sultanes de Monterrey","Caliente de Durango",0.472054015323753,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846741,2026-04-22,"Algodoneros Union Laguna","Toros de Tijuana",0.54340475631886,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846368,2026-04-22,"Acereros del Norte","Dorados de Chihuahua",0.536942711459111,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846606,2026-04-23,"Pericos de Puebla","Conspiradores de Queretaro",0.591697556437977,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846599,2026-04-23,"Pericos de Puebla","Conspiradores de Queretaro",0.633117728164197,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846553,2026-04-23,"Piratas de Campeche","Tigres de Quintana Roo",0.611063357016176,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846055,2026-04-23,"El Aguila de Veracruz","Olmecas de Tabasco",0.487410034177315,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846408,2026-04-23,"Tecos de los Dos Laredos","Charros de Jalisco",0.496757020397288,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846502,2026-04-23,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.526330390229445,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846698,2026-04-23,"Leones de Yucatan","Diablos Rojos del Mexico",0.511950312395338,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846845,2026-04-23,"Bravos de Leon","Guerreros de Oaxaca",0.521227822274173,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846318,2026-04-23,"Sultanes de Monterrey","Caliente de Durango",0.653346514635998,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846367,2026-04-23,"Acereros del Norte","Dorados de Chihuahua",0.472290776073565,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846190,2026-04-24,"Guerreros de Oaxaca","Olmecas de Tabasco",0.538936329384637,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846407,2026-04-24,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.569841601871764,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846556,2026-04-24,"Piratas de Campeche","Pericos de Puebla",0.351410030213521,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846749,2026-04-24,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.574523577866743,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846282,2026-04-24,"Tigres de Quintana Roo","Bravos de Leon",0.462856016505133,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846695,2026-04-24,"Leones de Yucatan","El Aguila de Veracruz",0.530660111047798,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+845959,2026-04-24,"Charros de Jalisco","Caliente de Durango",0.480783685710687,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846225,2026-04-24,"Dorados de Chihuahua","Sultanes de Monterrey",0.503228565615189,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846007,2026-04-24,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.44753838063066,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846103,2026-04-24,"Toros de Tijuana","Acereros del Norte",0.553164808959021,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846192,2026-04-25,"Guerreros de Oaxaca","Olmecas de Tabasco",0.557741336297704,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846273,2026-04-25,"Tigres de Quintana Roo","Bravos de Leon",0.518844838158749,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846226,2026-04-25,"Dorados de Chihuahua","Sultanes de Monterrey",0.473464344946552,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846004,2026-04-25,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.43241423974732,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+845957,2026-04-25,"Charros de Jalisco","Caliente de Durango",0.546324603428149,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846560,2026-04-25,"Piratas de Campeche","Pericos de Puebla",0.497280504270839,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846746,2026-04-25,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.501257005983175,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846412,2026-04-25,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.525511639804259,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846696,2026-04-25,"Leones de Yucatan","El Aguila de Veracruz",0.534905697922805,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846092,2026-04-25,"Toros de Tijuana","Acereros del Norte",0.536449226423582,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846180,2026-04-26,"Guerreros de Oaxaca","Olmecas de Tabasco",0.500260560347464,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846277,2026-04-26,"Tigres de Quintana Roo","Bravos de Leon",0.539570274089334,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846227,2026-04-26,"Dorados de Chihuahua","Sultanes de Monterrey",0.479456176010869,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846005,2026-04-26,"Conspiradores de Queretaro","Diablos Rojos del Mexico",0.426519889160194,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+845961,2026-04-26,"Charros de Jalisco","Caliente de Durango",0.512454811096881,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846692,2026-04-26,"Leones de Yucatan","El Aguila de Veracruz",0.505200953337003,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846094,2026-04-26,"Toros de Tijuana","Acereros del Norte",0.541580264003671,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846552,2026-04-26,"Piratas de Campeche","Pericos de Puebla",0.526757101406837,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846744,2026-04-26,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.53388240543988,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846413,2026-04-26,"Tecos de los Dos Laredos","Saraperos de Saltillo",0.471813466629477,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846276,2026-04-27,"Tigres de Quintana Roo","Leones de Yucatan",0.434375660633879,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846274,2026-04-28,"Tigres de Quintana Roo","Leones de Yucatan",0.550830628142434,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846547,2026-04-28,"Piratas de Campeche","Diablos Rojos del Mexico",0.41582011087925,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846601,2026-04-28,"Pericos de Puebla","Guerreros de Oaxaca",0.63250928840308,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846230,2026-04-28,"Dorados de Chihuahua","Charros de Jalisco",0.416610059369369,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846141,2026-04-28,"Caliente de Durango","Toros de Tijuana",0.374286875158624,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846649,2026-04-28,"Saraperos de Saltillo","Algodoneros Union Laguna",0.459158326470225,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846501,2026-04-28,"Rieleros de Aguascalientes","Acereros del Norte",0.599962046921088,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846323,2026-04-28,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.492861133752893,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846842,2026-04-28,"Bravos de Leon","El Aguila de Veracruz",0.532430992089454,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846795,2026-04-28,"Olmecas de Tabasco","Conspiradores de Queretaro",0.491061259843331,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846275,2026-04-29,"Tigres de Quintana Roo","Leones de Yucatan",0.495540530845813,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846548,2026-04-29,"Piratas de Campeche","Diablos Rojos del Mexico",0.473896348061641,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846603,2026-04-29,"Pericos de Puebla","Guerreros de Oaxaca",0.416695448866386,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846232,2026-04-29,"Dorados de Chihuahua","Charros de Jalisco",0.455362470058506,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846144,2026-04-29,"Caliente de Durango","Toros de Tijuana",0.504465234865274,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846645,2026-04-29,"Saraperos de Saltillo","Algodoneros Union Laguna",0.497840417655769,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846500,2026-04-29,"Rieleros de Aguascalientes","Acereros del Norte",0.426707591859622,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846317,2026-04-29,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.452507193536916,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846834,2026-04-29,"Bravos de Leon","El Aguila de Veracruz",0.451699933073569,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846791,2026-04-29,"Olmecas de Tabasco","Conspiradores de Queretaro",0.515491499265571,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846546,2026-04-30,"Piratas de Campeche","Diablos Rojos del Mexico",0.455985105013545,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846591,2026-04-30,"Pericos de Puebla","Guerreros de Oaxaca",0.470813138233685,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846229,2026-04-30,"Dorados de Chihuahua","Charros de Jalisco",0.449586819653992,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846131,2026-04-30,"Caliente de Durango","Toros de Tijuana",0.496755530563112,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846646,2026-04-30,"Saraperos de Saltillo","Algodoneros Union Laguna",0.490587407356298,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846499,2026-04-30,"Rieleros de Aguascalientes","Acereros del Norte",0.42819772561993,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846319,2026-04-30,"Sultanes de Monterrey","Tecos de los Dos Laredos",0.509354582800978,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846837,2026-04-30,"Bravos de Leon","El Aguila de Veracruz",0.49711008163044,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846794,2026-04-30,"Olmecas de Tabasco","Conspiradores de Queretaro",0.480847906147096,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846460,2026-05-01,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.596667510357654,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846045,2026-05-01,"El Aguila de Veracruz","Tigres de Quintana Roo",0.538501215588481,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846006,2026-05-01,"Conspiradores de Queretaro","Piratas de Campeche",0.529241455467998,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846790,2026-05-01,"Olmecas de Tabasco","Bravos de Leon",0.5626096001021,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846690,2026-05-01,"Leones de Yucatan","Pericos de Puebla",0.435876828310853,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846735,2026-05-01,"Algodoneros Union Laguna","Dorados de Chihuahua",0.468189595451272,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846650,2026-05-01,"Saraperos de Saltillo","Caliente de Durango",0.372348430149101,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846324,2026-05-01,"Sultanes de Monterrey","Charros de Jalisco",0.502265602855972,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846090,2026-05-01,"Toros de Tijuana","Rieleros de Aguascalientes",0.595985750299714,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846463,2026-05-02,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.593168921924132,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846321,2026-05-02,"Sultanes de Monterrey","Charros de Jalisco",0.492847094907312,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846370,2026-05-02,"Acereros del Norte","Tecos de los Dos Laredos",0.537028187397999,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846366,2026-05-02,"Acereros del Norte","Tecos de los Dos Laredos",0.5949274231693,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846653,2026-05-02,"Saraperos de Saltillo","Caliente de Durango",0.32052981369228,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846003,2026-05-02,"Conspiradores de Queretaro","Piratas de Campeche",0.531221121440311,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846740,2026-05-02,"Algodoneros Union Laguna","Dorados de Chihuahua",0.493254691097609,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846793,2026-05-02,"Olmecas de Tabasco","Bravos de Leon",0.636217253012831,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846697,2026-05-02,"Leones de Yucatan","Pericos de Puebla",0.467493129396303,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846091,2026-05-02,"Toros de Tijuana","Rieleros de Aguascalientes",0.618015461615546,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846452,2026-05-03,"Diablos Rojos del Mexico","Guerreros de Oaxaca",0.612683489582504,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846648,2026-05-03,"Saraperos de Saltillo","Caliente de Durango",0.488536194336921,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846040,2026-05-03,"El Aguila de Veracruz","Tigres de Quintana Roo",0.579773550927243,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846041,2026-05-03,"El Aguila de Veracruz","Tigres de Quintana Roo",0.522946391096152,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846001,2026-05-03,"Conspiradores de Queretaro","Piratas de Campeche",0.509510567599832,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846320,2026-05-03,"Sultanes de Monterrey","Charros de Jalisco",0.464031167869315,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846792,2026-05-03,"Olmecas de Tabasco","Bravos de Leon",0.443303350782012,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846694,2026-05-03,"Leones de Yucatan","Pericos de Puebla",0.481138186696403,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846369,2026-05-03,"Acereros del Norte","Tecos de los Dos Laredos",0.573156144119771,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846739,2026-05-03,"Algodoneros Union Laguna","Dorados de Chihuahua",0.485899496649035,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846089,2026-05-03,"Toros de Tijuana","Rieleros de Aguascalientes",0.518979669135341,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846642,2026-05-04,"Saraperos de Saltillo","Acereros del Norte",0.480390563529207,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846594,2026-05-05,"Pericos de Puebla","Tigres de Quintana Roo",0.552250399283749,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846414,2026-05-05,"Tecos de los Dos Laredos","Caliente de Durango",0.434342095058348,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846453,2026-05-05,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.527655313369773,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846000,2026-05-05,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.410493215547897,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846789,2026-05-05,"Olmecas de Tabasco","Leones de Yucatan",0.573043795545402,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846838,2026-05-05,"Bravos de Leon","Piratas de Campeche",0.529704790666318,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846641,2026-05-05,"Saraperos de Saltillo","Acereros del Norte",0.443723233787838,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846497,2026-05-05,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.593127439241379,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+845956,2026-05-05,"Charros de Jalisco","Algodoneros Union Laguna",0.565184754345192,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846096,2026-05-05,"Toros de Tijuana","Sultanes de Monterrey",0.525845045089159,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846595,2026-05-06,"Pericos de Puebla","Tigres de Quintana Roo",0.544005074109748,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846410,2026-05-06,"Tecos de los Dos Laredos","Caliente de Durango",0.467297132433063,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846455,2026-05-06,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.627917459130138,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846788,2026-05-06,"Olmecas de Tabasco","Leones de Yucatan",0.567667873352648,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846833,2026-05-06,"Bravos de Leon","Piratas de Campeche",0.523033072557952,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846644,2026-05-06,"Saraperos de Saltillo","Acereros del Norte",0.514763705832902,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846504,2026-05-06,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.584869739050396,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+845954,2026-05-06,"Charros de Jalisco","Algodoneros Union Laguna",0.531732174516667,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846087,2026-05-06,"Toros de Tijuana","Sultanes de Monterrey",0.554603772828654,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+845996,2026-05-07,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.454050463386391,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846002,2026-05-07,"Conspiradores de Queretaro","Guerreros de Oaxaca",0.431060755390594,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846592,2026-05-07,"Pericos de Puebla","Tigres de Quintana Roo",0.587804420284728,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846409,2026-05-07,"Tecos de los Dos Laredos","Caliente de Durango",0.523818104801089,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846451,2026-05-07,"Diablos Rojos del Mexico","El Aguila de Veracruz",0.562833064819559,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846786,2026-05-07,"Olmecas de Tabasco","Leones de Yucatan",0.550996534124323,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846836,2026-05-07,"Bravos de Leon","Piratas de Campeche",0.554617096859905,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846498,2026-05-07,"Rieleros de Aguascalientes","Dorados de Chihuahua",0.61522887527193,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+845953,2026-05-07,"Charros de Jalisco","Algodoneros Union Laguna",0.519633246491124,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846095,2026-05-07,"Toros de Tijuana","Sultanes de Monterrey",0.455183313027556,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846271,2026-05-08,"Tigres de Quintana Roo","Olmecas de Tabasco",0.465043214068884,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846231,2026-05-08,"Dorados de Chihuahua","Saraperos de Saltillo",0.516423034703945,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846181,2026-05-08,"Guerreros de Oaxaca","Piratas de Campeche",0.546880959349739,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+845999,2026-05-08,"Conspiradores de Queretaro","El Aguila de Veracruz",0.536143865204081,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846136,2026-05-08,"Caliente de Durango","Algodoneros Union Laguna",0.417140351790676,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846686,2026-05-08,"Leones de Yucatan","Bravos de Leon",0.384553742963457,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+845955,2026-05-08,"Charros de Jalisco","Rieleros de Aguascalientes",0.492767492024256,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846364,2026-05-08,"Acereros del Norte","Sultanes de Monterrey",0.566805950858051,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846596,2026-05-09,"Pericos de Puebla","Diablos Rojos del Mexico",0.554314799788235,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846182,2026-05-09,"Guerreros de Oaxaca","Piratas de Campeche",0.526474679111589,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846132,2026-05-09,"Caliente de Durango","Algodoneros Union Laguna",0.450245758984674,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846406,2026-05-09,"Tecos de los Dos Laredos","Toros de Tijuana",0.392370148533392,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846411,2026-05-09,"Tecos de los Dos Laredos","Toros de Tijuana",0.421527314581303,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846267,2026-05-09,"Tigres de Quintana Roo","Olmecas de Tabasco",0.44160008750135,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+845952,2026-05-09,"Charros de Jalisco","Rieleros de Aguascalientes",0.463470773428688,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+845997,2026-05-09,"Conspiradores de Queretaro","El Aguila de Veracruz",0.52830577863253,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846689,2026-05-09,"Leones de Yucatan","Bravos de Leon",0.355100508142275,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846228,2026-05-09,"Dorados de Chihuahua","Saraperos de Saltillo",0.595690776115199,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846365,2026-05-09,"Acereros del Norte","Sultanes de Monterrey",0.6264435502458,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846597,2026-05-10,"Pericos de Puebla","Diablos Rojos del Mexico",0.500060937058675,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846134,2026-05-10,"Caliente de Durango","Algodoneros Union Laguna",0.525313129984724,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846266,2026-05-10,"Tigres de Quintana Roo","Olmecas de Tabasco",0.479414269788457,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846185,2026-05-10,"Guerreros de Oaxaca","Piratas de Campeche",0.501900664117298,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+845951,2026-05-10,"Charros de Jalisco","Rieleros de Aguascalientes",0.46310894403842,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+845998,2026-05-10,"Conspiradores de Queretaro","El Aguila de Veracruz",0.512807320814168,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846683,2026-05-10,"Leones de Yucatan","Bravos de Leon",0.382833251227284,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846361,2026-05-10,"Acereros del Norte","Sultanes de Monterrey",0.60630168377798,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846233,2026-05-10,"Dorados de Chihuahua","Saraperos de Saltillo",0.522540702462852,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846401,2026-05-10,"Tecos de los Dos Laredos","Toros de Tijuana",0.377794959092384,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846186,2026-05-11,"El Aguila de Veracruz","Guerreros de Oaxaca",0.451957522016653,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846270,2026-05-12,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.512988485277172,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846590,2026-05-12,"Pericos de Puebla","Bravos de Leon",0.528851121907238,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846549,2026-05-12,"Piratas de Campeche","Leones de Yucatan",0.436948407773649,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846179,2026-05-12,"El Aguila de Veracruz","Guerreros de Oaxaca",0.462304237728436,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846129,2026-05-12,"Caliente de Durango","Acereros del Norte",0.454560461255696,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846785,2026-05-12,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.540793232706669,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846738,2026-05-12,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.516910813843409,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846322,2026-05-12,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.579353750242979,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846638,2026-05-12,"Saraperos de Saltillo","Charros de Jalisco",0.555461354992986,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+846088,2026-05-12,"Toros de Tijuana","Dorados de Chihuahua",0.591306405309676,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846272,2026-05-13,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.524742110025984,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846589,2026-05-13,"Pericos de Puebla","Bravos de Leon",0.51309708812472,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846550,2026-05-13,"Piratas de Campeche","Leones de Yucatan",0.541736942730996,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846184,2026-05-13,"El Aguila de Veracruz","Guerreros de Oaxaca",0.514045973684364,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846137,2026-05-13,"Caliente de Durango","Acereros del Norte",0.388282841079012,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846783,2026-05-13,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.536922041625552,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846736,2026-05-13,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.4408753588423,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846315,2026-05-13,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.616630230748798,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846637,2026-05-13,"Saraperos de Saltillo","Charros de Jalisco",0.475283177252339,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846093,2026-05-13,"Toros de Tijuana","Dorados de Chihuahua",0.575565805485543,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846265,2026-05-14,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.502745453167443,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846584,2026-05-14,"Pericos de Puebla","Bravos de Leon",0.536488924100113,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846545,2026-05-14,"Piratas de Campeche","Leones de Yucatan",0.516778128602337,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846133,2026-05-14,"Caliente de Durango","Acereros del Norte",0.450938027952763,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846784,2026-05-14,"Olmecas de Tabasco","Diablos Rojos del Mexico",0.54952327132727,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846737,2026-05-14,"Algodoneros Union Laguna","Tecos de los Dos Laredos",0.44259482810985,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846316,2026-05-14,"Sultanes de Monterrey","Rieleros de Aguascalientes",0.561123942121314,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846643,2026-05-14,"Saraperos de Saltillo","Charros de Jalisco",0.473419669745063,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846085,2026-05-14,"Toros de Tijuana","Dorados de Chihuahua",0.56324021451496,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846447,2026-05-15,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.577834044525867,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846404,2026-05-15,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.603082528210919,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846043,2026-05-15,"El Aguila de Veracruz","Pericos de Puebla",0.547710236596624,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+845994,2026-05-15,"Conspiradores de Queretaro","Bravos de Leon",0.425125689921447,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846128,2026-05-15,"Caliente de Durango","Rieleros de Aguascalientes",0.603568063555133,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846778,2026-05-15,"Olmecas de Tabasco","Piratas de Campeche",0.522248051297527,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846309,2026-05-15,"Sultanes de Monterrey","Algodoneros Union Laguna",0.498976928542147,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846682,2026-05-15,"Leones de Yucatan","Guerreros de Oaxaca",0.502012068283319,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846362,2026-05-15,"Acereros del Norte","Charros de Jalisco",0.485368049469435,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846078,2026-05-15,"Toros de Tijuana","Saraperos de Saltillo",0.443606742739687,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846448,2026-05-16,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.629967245695652,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846314,2026-05-16,"Sultanes de Monterrey","Algodoneros Union Laguna",0.483690573083351,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846039,2026-05-16,"El Aguila de Veracruz","Pericos de Puebla",0.464205218720763,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+845995,2026-05-16,"Conspiradores de Queretaro","Bravos de Leon",0.532035264763485,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846402,2026-05-16,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.58107421282999,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846782,2026-05-16,"Olmecas de Tabasco","Piratas de Campeche",0.602144482473176,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846681,2026-05-16,"Leones de Yucatan","Guerreros de Oaxaca",0.471383910669118,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846135,2026-05-16,"Caliente de Durango","Rieleros de Aguascalientes",0.646377539303859,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846080,2026-05-16,"Toros de Tijuana","Saraperos de Saltillo",0.64279402901691,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846363,2026-05-16,"Acereros del Norte","Charros de Jalisco",0.495647810716875,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846449,2026-05-17,"Diablos Rojos del Mexico","Tigres de Quintana Roo",0.632317417120607,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846130,2026-05-17,"Caliente de Durango","Rieleros de Aguascalientes",0.573755902617652,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846313,2026-05-17,"Sultanes de Monterrey","Algodoneros Union Laguna",0.493335667450386,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+845992,2026-05-17,"Conspiradores de Queretaro","Bravos de Leon",0.50931780874425,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846781,2026-05-17,"Olmecas de Tabasco","Piratas de Campeche",0.520850489983838,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846403,2026-05-17,"Tecos de los Dos Laredos","Dorados de Chihuahua",0.566169185318575,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846684,2026-05-17,"Leones de Yucatan","Guerreros de Oaxaca",0.460385840717942,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846044,2026-05-17,"El Aguila de Veracruz","Pericos de Puebla",0.563488215119704,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846358,2026-05-17,"Acereros del Norte","Charros de Jalisco",0.504090300584035,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846082,2026-05-17,"Toros de Tijuana","Saraperos de Saltillo",0.549219484412098,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846839,2026-05-18,"Bravos de Leon","Diablos Rojos del Mexico",0.459729730106912,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846264,2026-05-19,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.442071601202304,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846582,2026-05-19,"Pericos de Puebla","Olmecas de Tabasco",0.435133608260325,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846217,2026-05-19,"Dorados de Chihuahua","Caliente de Durango",0.522575692364513,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846551,2026-05-19,"Piratas de Campeche","El Aguila de Veracruz",0.526856554259416,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+845993,2026-05-19,"Conspiradores de Queretaro","Leones de Yucatan",0.580955796041916,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846840,2026-05-19,"Bravos de Leon","Diablos Rojos del Mexico",0.517204157742079,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846496,2026-05-19,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.522600620908041,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846734,2026-05-19,"Algodoneros Union Laguna","Acereros del Norte",0.45726336816679,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846640,2026-05-19,"Saraperos de Saltillo","Sultanes de Monterrey",0.488973221041793,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+845950,2026-05-19,"Charros de Jalisco","Toros de Tijuana",0.578471334356943,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846269,2026-05-20,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.431414723305852,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846581,2026-05-20,"Pericos de Puebla","Olmecas de Tabasco",0.430203586841978,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846544,2026-05-20,"Piratas de Campeche","El Aguila de Veracruz",0.383381429811286,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846841,2026-05-20,"Bravos de Leon","Diablos Rojos del Mexico",0.442293988608683,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846503,2026-05-20,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.64201507689594,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846733,2026-05-20,"Algodoneros Union Laguna","Acereros del Norte",0.40859992915005,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846639,2026-05-20,"Saraperos de Saltillo","Sultanes de Monterrey",0.567667827880411,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+845949,2026-05-20,"Charros de Jalisco","Toros de Tijuana",0.463695829253437,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846216,2026-05-20,"Dorados de Chihuahua","Caliente de Durango",0.503817232297365,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846268,2026-05-21,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.49531934687874,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846586,2026-05-21,"Pericos de Puebla","Olmecas de Tabasco",0.488153316673654,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846543,2026-05-21,"Piratas de Campeche","El Aguila de Veracruz",0.510530905948705,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+845989,2026-05-21,"Conspiradores de Queretaro","Leones de Yucatan",0.562275078543438,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846495,2026-05-21,"Rieleros de Aguascalientes","Tecos de los Dos Laredos",0.561339632686414,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846732,2026-05-21,"Algodoneros Union Laguna","Acereros del Norte",0.469188539850357,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846636,2026-05-21,"Saraperos de Saltillo","Sultanes de Monterrey",0.472028908206342,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+845946,2026-05-21,"Charros de Jalisco","Toros de Tijuana",0.535334646656935,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846221,2026-05-21,"Dorados de Chihuahua","Caliente de Durango",0.483012514273741,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846585,2026-05-22,"Pericos de Puebla","Tigres de Quintana Roo",0.472425248193338,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846219,2026-05-22,"Dorados de Chihuahua","Acereros del Norte",0.459471750200179,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846038,2026-05-22,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.376550630211289,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846685,2026-05-22,"Leones de Yucatan","Olmecas de Tabasco",0.463995937623835,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846835,2026-05-22,"Bravos de Leon","Piratas de Campeche",0.469720504529565,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846486,2026-05-22,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.538092178452364,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846311,2026-05-22,"Sultanes de Monterrey","Caliente de Durango",0.578143489083132,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+845947,2026-05-22,"Charros de Jalisco","Tecos de los Dos Laredos",0.548995803734279,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846079,2026-05-22,"Toros de Tijuana","Algodoneros Union Laguna",0.630570299255275,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846587,2026-05-23,"Pericos de Puebla","Tigres de Quintana Roo",0.403379413386159,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846183,2026-05-23,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.545512324974147,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846177,2026-05-23,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.50441413588942,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846308,2026-05-23,"Sultanes de Monterrey","Caliente de Durango",0.578759449509975,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846824,2026-05-23,"Bravos de Leon","Piratas de Campeche",0.413386329423288,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846494,2026-05-23,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.471397566746923,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846046,2026-05-23,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.359617806858226,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+845948,2026-05-23,"Charros de Jalisco","Tecos de los Dos Laredos",0.554208431051012,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846687,2026-05-23,"Leones de Yucatan","Olmecas de Tabasco",0.475939511013462,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846220,2026-05-23,"Dorados de Chihuahua","Acereros del Norte",0.425058130729751,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846081,2026-05-23,"Toros de Tijuana","Algodoneros Union Laguna",0.585175895640756,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846588,2026-05-24,"Pericos de Puebla","Tigres de Quintana Roo",0.59995207238388,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846310,2026-05-24,"Sultanes de Monterrey","Caliente de Durango",0.703224961429816,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846178,2026-05-24,"Guerreros de Oaxaca","Conspiradores de Queretaro",0.523494269835669,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+845944,2026-05-24,"Charros de Jalisco","Tecos de los Dos Laredos",0.57624833600813,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846688,2026-05-24,"Leones de Yucatan","Olmecas de Tabasco",0.491500657578579,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846825,2026-05-24,"Bravos de Leon","Piratas de Campeche",0.471716647984392,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846490,2026-05-24,"Rieleros de Aguascalientes","Saraperos de Saltillo",0.570262319820049,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846224,2026-05-24,"Dorados de Chihuahua","Acereros del Norte",0.463348274196508,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846042,2026-05-24,"El Aguila de Veracruz","Diablos Rojos del Mexico",0.40304857691837,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846086,2026-05-24,"Toros de Tijuana","Algodoneros Union Laguna",0.542198993306638,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+845945,2026-05-25,"Charros de Jalisco","Sultanes de Monterrey",0.477973137751965,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846405,2026-05-26,"Tecos de los Dos Laredos","Acereros del Norte",0.489139046055814,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846542,2026-05-26,"Piratas de Campeche","Tigres de Quintana Roo",0.557639188400758,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846168,2026-05-26,"Guerreros de Oaxaca","Bravos de Leon",0.462765786674068,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+845987,2026-05-26,"Conspiradores de Queretaro","Pericos de Puebla",0.535635525761127,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846121,2026-05-26,"Caliente de Durango","Saraperos de Saltillo",0.577636554104374,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846680,2026-05-26,"Leones de Yucatan","Diablos Rojos del Mexico",0.524964894352834,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846729,2026-05-26,"Algodoneros Union Laguna","Dorados de Chihuahua",0.502240060891126,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846492,2026-05-26,"Rieleros de Aguascalientes","Toros de Tijuana",0.506831712929867,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846779,2026-05-26,"Olmecas de Tabasco","El Aguila de Veracruz",0.601932674273819,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+845943,2026-05-26,"Charros de Jalisco","Sultanes de Monterrey",0.551735250296441,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846400,2026-05-27,"Tecos de los Dos Laredos","Acereros del Norte",0.51887342934726,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+845991,2026-05-27,"Conspiradores de Queretaro","Pericos de Puebla",0.546222894621179,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846122,2026-05-27,"Caliente de Durango","Saraperos de Saltillo",0.549949737960686,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846730,2026-05-27,"Algodoneros Union Laguna","Dorados de Chihuahua",0.557133450100653,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846493,2026-05-27,"Rieleros de Aguascalientes","Toros de Tijuana",0.558673414748519,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846780,2026-05-27,"Olmecas de Tabasco","El Aguila de Veracruz",0.555003319970534,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+845942,2026-05-27,"Charros de Jalisco","Sultanes de Monterrey",0.564376449205064,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846175,2026-05-28,"Guerreros de Oaxaca","Bravos de Leon",0.390145367362974,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846170,2026-05-28,"Guerreros de Oaxaca","Bravos de Leon",0.509364748339973,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846675,2026-05-28,"Leones de Yucatan","Diablos Rojos del Mexico",0.483527528281385,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846679,2026-05-28,"Leones de Yucatan","Diablos Rojos del Mexico",0.413911005390595,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846392,2026-05-28,"Tecos de los Dos Laredos","Acereros del Norte",0.436067440332188,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+845990,2026-05-28,"Conspiradores de Queretaro","Pericos de Puebla",0.527300247347747,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846728,2026-05-28,"Algodoneros Union Laguna","Dorados de Chihuahua",0.517226247451649,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846487,2026-05-28,"Rieleros de Aguascalientes","Toros de Tijuana",0.499088369692888,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846773,2026-05-28,"Olmecas de Tabasco","El Aguila de Veracruz",0.539257593356169,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846583,2026-05-29,"Pericos de Puebla","Piratas de Campeche",0.385396481106231,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846218,2026-05-29,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.567322745364819,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846031,2026-05-29,"El Aguila de Veracruz","Leones de Yucatan",0.465362252505558,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846450,2026-05-29,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.634213423270544,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846120,2026-05-29,"Caliente de Durango","Tecos de los Dos Laredos",0.573431424784574,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846823,2026-05-29,"Bravos de Leon","Tigres de Quintana Roo",0.518359023672204,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846727,2026-05-29,"Algodoneros Union Laguna","Charros de Jalisco",0.499542484457152,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846360,2026-05-29,"Acereros del Norte","Saraperos de Saltillo",0.480707652803973,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+846774,2026-05-29,"Olmecas de Tabasco","Guerreros de Oaxaca",0.564758764052897,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846084,2026-05-29,"Toros de Tijuana","Sultanes de Monterrey",0.546387798331862,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846575,2026-05-30,"Pericos de Puebla","Piratas de Campeche",0.487049540095774,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846456,2026-05-30,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.621822003644349,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846826,2026-05-30,"Bravos de Leon","Tigres de Quintana Roo",0.409835266074883,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846029,2026-05-30,"El Aguila de Veracruz","Leones de Yucatan",0.504144706417216,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846725,2026-05-30,"Algodoneros Union Laguna","Charros de Jalisco",0.527177696831531,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846222,2026-05-30,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.563876103512122,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846772,2026-05-30,"Olmecas de Tabasco","Guerreros de Oaxaca",0.571556678781638,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846119,2026-05-30,"Caliente de Durango","Tecos de los Dos Laredos",0.545631398261936,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846353,2026-05-30,"Acereros del Norte","Saraperos de Saltillo",0.538028765800591,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846083,2026-05-30,"Toros de Tijuana","Sultanes de Monterrey",0.521069102273742,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846574,2026-05-31,"Pericos de Puebla","Piratas de Campeche",0.50948267907212,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846118,2026-05-31,"Caliente de Durango","Tecos de los Dos Laredos",0.546248687208604,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846454,2026-05-31,"Diablos Rojos del Mexico","Conspiradores de Queretaro",0.642218966951277,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846223,2026-05-31,"Dorados de Chihuahua","Rieleros de Aguascalientes",0.520922350436299,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846355,2026-05-31,"Acereros del Norte","Saraperos de Saltillo",0.501673939220762,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846827,2026-05-31,"Bravos de Leon","Tigres de Quintana Roo",0.546632428024693,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846771,2026-05-31,"Olmecas de Tabasco","Guerreros de Oaxaca",0.547257383282689,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846036,2026-05-31,"El Aguila de Veracruz","Leones de Yucatan",0.470745195968991,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846077,2026-05-31,"Toros de Tijuana","Sultanes de Monterrey",0.546123128323982,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846724,2026-05-31,"Algodoneros Union Laguna","Charros de Jalisco",0.446837607611945,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846351,2026-06-01,"Acereros del Norte","Algodoneros Union Laguna",0.387759438127093,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846260,2026-06-02,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.612162359360643,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846446,2026-06-02,"Diablos Rojos del Mexico","Bravos de Leon",0.458452623696397,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846391,2026-06-02,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.622097724220393,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846539,2026-06-02,"Piratas de Campeche","El Aguila de Veracruz",0.441767213341983,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846125,2026-06-02,"Caliente de Durango","Dorados de Chihuahua",0.362971178884832,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846770,2026-06-02,"Olmecas de Tabasco","Pericos de Puebla",0.454554324150519,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846629,2026-06-02,"Saraperos de Saltillo","Sultanes de Monterrey",0.41798194636269,NA,NA,NA,"Sultanes de Monterrey",NA,NA,TRUE
+846352,2026-06-02,"Acereros del Norte","Algodoneros Union Laguna",0.519062050490527,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846076,2026-06-02,"Toros de Tijuana","Charros de Jalisco",0.512751544225707,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846678,2026-06-03,"Leones de Yucatan","Conspiradores de Queretaro",0.397164209788146,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846674,2026-06-03,"Leones de Yucatan","Conspiradores de Queretaro",0.501877961682454,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846394,2026-06-03,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.502073455910286,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,TRUE
+846262,2026-06-03,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.622237672470592,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846440,2026-06-03,"Diablos Rojos del Mexico","Bravos de Leon",0.555055328628594,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846538,2026-06-03,"Piratas de Campeche","El Aguila de Veracruz",0.469029397819893,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846126,2026-06-03,"Caliente de Durango","Dorados de Chihuahua",0.512535619501408,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846626,2026-06-03,"Saraperos de Saltillo","Sultanes de Monterrey",0.516762751852163,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846354,2026-06-03,"Acereros del Norte","Algodoneros Union Laguna",0.518399988999216,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846069,2026-06-03,"Toros de Tijuana","Charros de Jalisco",0.616060329711695,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846776,2026-06-04,"Olmecas de Tabasco","Pericos de Puebla",0.526756547487033,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846775,2026-06-04,"Olmecas de Tabasco","Pericos de Puebla",0.372427313526575,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846398,2026-06-04,"Tecos de los Dos Laredos","Rieleros de Aguascalientes",0.49237207203683,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846257,2026-06-04,"Tigres de Quintana Roo","Guerreros de Oaxaca",0.562348319683737,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846441,2026-06-04,"Diablos Rojos del Mexico","Bravos de Leon",0.520330458069253,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846124,2026-06-04,"Caliente de Durango","Dorados de Chihuahua",0.522945323315023,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846673,2026-06-04,"Leones de Yucatan","Conspiradores de Queretaro",0.503871151763895,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846072,2026-06-04,"Toros de Tijuana","Charros de Jalisco",0.611759965446725,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846258,2026-06-05,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.483916844665641,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846537,2026-06-05,"Piratas de Campeche","Leones de Yucatan",0.578830235670563,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846828,2026-06-05,"Bravos de Leon","Pericos de Puebla",0.523402833789606,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846312,2026-06-05,"Sultanes de Monterrey","Acereros del Norte",0.392938290667076,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846631,2026-06-05,"Saraperos de Saltillo","Dorados de Chihuahua",0.487392631651035,NA,NA,NA,"Dorados de Chihuahua",NA,NA,TRUE
+846722,2026-06-05,"Algodoneros Union Laguna","Caliente de Durango",0.510367704553702,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846488,2026-06-05,"Rieleros de Aguascalientes","Charros de Jalisco",0.499406267825933,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846075,2026-06-05,"Toros de Tijuana","Tecos de los Dos Laredos",0.692840292098752,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846443,2026-06-06,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.49089642384208,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846445,2026-06-06,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.517721080293582,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846301,2026-06-06,"Sultanes de Monterrey","Acereros del Norte",0.451193425058905,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846172,2026-06-06,"Guerreros de Oaxaca","El Aguila de Veracruz",0.44464707020438,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846259,2026-06-06,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.439137817718634,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846830,2026-06-06,"Bravos de Leon","Pericos de Puebla",0.422057282629953,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846630,2026-06-06,"Saraperos de Saltillo","Dorados de Chihuahua",0.532163126695633,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846489,2026-06-06,"Rieleros de Aguascalientes","Charros de Jalisco",0.488288147080295,NA,NA,NA,"Charros de Jalisco",NA,NA,TRUE
+846536,2026-06-06,"Piratas de Campeche","Leones de Yucatan",0.547019102488893,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846726,2026-06-06,"Algodoneros Union Laguna","Caliente de Durango",0.567386651142359,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846070,2026-06-06,"Toros de Tijuana","Tecos de los Dos Laredos",0.687537911464537,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846438,2026-06-07,"Diablos Rojos del Mexico","Olmecas de Tabasco",0.543220201067541,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846300,2026-06-07,"Sultanes de Monterrey","Acereros del Norte",0.419763659619701,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846628,2026-06-07,"Saraperos de Saltillo","Dorados de Chihuahua",0.386422057367952,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846173,2026-06-07,"Guerreros de Oaxaca","El Aguila de Veracruz",0.446323399416231,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846261,2026-06-07,"Tigres de Quintana Roo","Conspiradores de Queretaro",0.517334821466369,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846831,2026-06-07,"Bravos de Leon","Pericos de Puebla",0.551392855312286,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846491,2026-06-07,"Rieleros de Aguascalientes","Charros de Jalisco",0.443801660099626,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846073,2026-06-07,"Toros de Tijuana","Tecos de los Dos Laredos",0.63628334777475,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846535,2026-06-07,"Piratas de Campeche","Leones de Yucatan",0.536806906868337,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846723,2026-06-07,"Algodoneros Union Laguna","Caliente de Durango",0.585022307765218,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846303,2026-06-08,"Sultanes de Monterrey","Tigres de Quintana Roo",0.465237562098916,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846572,2026-06-09,"Pericos de Puebla","Saraperos de Saltillo",0.458037537657627,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846214,2026-06-09,"Dorados de Chihuahua","Piratas de Campeche",0.40292717936067,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+845986,2026-06-09,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.527605423793263,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846028,2026-06-09,"El Aguila de Veracruz","Toros de Tijuana",0.381793065873318,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846676,2026-06-09,"Leones de Yucatan","Rieleros de Aguascalientes",0.57317873978224,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846829,2026-06-09,"Bravos de Leon","Tecos de los Dos Laredos",0.599870986868707,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846307,2026-06-09,"Sultanes de Monterrey","Tigres de Quintana Roo",0.49464343370334,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846777,2026-06-09,"Olmecas de Tabasco","Caliente de Durango",0.532087080181645,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+845941,2026-06-09,"Charros de Jalisco","Guerreros de Oaxaca",0.449999206058835,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846359,2026-06-09,"Acereros del Norte","Diablos Rojos del Mexico",0.420352831144644,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+845940,2026-06-10,"Charros de Jalisco","Guerreros de Oaxaca",0.439143426488281,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+845939,2026-06-10,"Charros de Jalisco","Guerreros de Oaxaca",0.516698446495135,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846577,2026-06-10,"Pericos de Puebla","Saraperos de Saltillo",0.559872418563263,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846208,2026-06-10,"Dorados de Chihuahua","Piratas de Campeche",0.496265527243893,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+845984,2026-06-10,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.530496791426561,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846030,2026-06-10,"El Aguila de Veracruz","Toros de Tijuana",0.548174785397348,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846677,2026-06-10,"Leones de Yucatan","Rieleros de Aguascalientes",0.462651142492896,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846832,2026-06-10,"Bravos de Leon","Tecos de los Dos Laredos",0.532543875928631,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846306,2026-06-10,"Sultanes de Monterrey","Tigres de Quintana Roo",0.48604983075137,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846769,2026-06-10,"Olmecas de Tabasco","Caliente de Durango",0.640861107138567,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846356,2026-06-10,"Acereros del Norte","Diablos Rojos del Mexico",0.480977955860187,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846579,2026-06-11,"Pericos de Puebla","Saraperos de Saltillo",0.530725888923416,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846212,2026-06-11,"Dorados de Chihuahua","Piratas de Campeche",0.401041108644603,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+845985,2026-06-11,"Conspiradores de Queretaro","Algodoneros Union Laguna",0.547956293804963,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846034,2026-06-11,"El Aguila de Veracruz","Toros de Tijuana",0.533106125889573,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846815,2026-06-11,"Bravos de Leon","Tecos de los Dos Laredos",0.603638877500185,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846766,2026-06-11,"Olmecas de Tabasco","Caliente de Durango",0.641118098026809,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846357,2026-06-11,"Acereros del Norte","Diablos Rojos del Mexico",0.555975720537224,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846206,2026-06-12,"Dorados de Chihuahua","Guerreros de Oaxaca",0.384978223673602,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846037,2026-06-12,"El Aguila de Veracruz","Saraperos de Saltillo",0.43758675959157,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+845982,2026-06-12,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.63874472162847,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+846822,2026-06-12,"Bravos de Leon","Algodoneros Union Laguna",0.54760606467151,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846765,2026-06-12,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.518948515114494,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846302,2026-06-12,"Sultanes de Monterrey","Piratas de Campeche",0.48484196298771,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846668,2026-06-12,"Leones de Yucatan","Caliente de Durango",0.396847116631939,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846344,2026-06-12,"Acereros del Norte","Tigres de Quintana Roo",0.416777418899225,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+845938,2026-06-12,"Charros de Jalisco","Diablos Rojos del Mexico",0.471860707176242,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846580,2026-06-13,"Pericos de Puebla","Toros de Tijuana",0.448791739504927,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846578,2026-06-13,"Pericos de Puebla","Toros de Tijuana",0.4219095449607,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846304,2026-06-13,"Sultanes de Monterrey","Piratas de Campeche",0.621122815300524,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846821,2026-06-13,"Bravos de Leon","Algodoneros Union Laguna",0.501741515433641,NA,NA,NA,"Bravos de Leon",NA,NA,TRUE
+846209,2026-06-13,"Dorados de Chihuahua","Guerreros de Oaxaca",0.402421787660522,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+846032,2026-06-13,"El Aguila de Veracruz","Saraperos de Saltillo",0.427782851048905,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+845983,2026-06-13,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.598874319717366,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+845937,2026-06-13,"Charros de Jalisco","Diablos Rojos del Mexico",0.508994136216581,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846767,2026-06-13,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.485699397501913,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846669,2026-06-13,"Leones de Yucatan","Caliente de Durango",0.372838626765019,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846347,2026-06-13,"Acereros del Norte","Tigres de Quintana Roo",0.442949275926102,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846576,2026-06-14,"Pericos de Puebla","Toros de Tijuana",0.449497307381965,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846305,2026-06-14,"Sultanes de Monterrey","Piratas de Campeche",0.483981013606616,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846213,2026-06-14,"Dorados de Chihuahua","Guerreros de Oaxaca",0.497896825437886,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,TRUE
+845981,2026-06-14,"Conspiradores de Queretaro","Tecos de los Dos Laredos",0.587557444467566,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,TRUE
+845936,2026-06-14,"Charros de Jalisco","Diablos Rojos del Mexico",0.406633542047105,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,FALSE
+846820,2026-06-14,"Bravos de Leon","Algodoneros Union Laguna",0.528007009092231,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846761,2026-06-14,"Olmecas de Tabasco","Rieleros de Aguascalientes",0.472694623355767,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846342,2026-06-14,"Acereros del Norte","Tigres de Quintana Roo",0.592473476911002,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846665,2026-06-14,"Leones de Yucatan","Caliente de Durango",0.430581310539459,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846035,2026-06-14,"El Aguila de Veracruz","Saraperos de Saltillo",0.414236380637792,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+846439,2026-06-15,"Diablos Rojos del Mexico","Charros de Jalisco",0.595413181684417,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846255,2026-06-16,"Tigres de Quintana Roo","Sultanes de Monterrey",0.563410475360904,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846397,2026-06-16,"Tecos de los Dos Laredos","Leones de Yucatan",0.471349907712787,NA,NA,NA,"Leones de Yucatan",NA,NA,TRUE
+846529,2026-06-16,"Piratas de Campeche","Dorados de Chihuahua",0.517642398730867,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846176,2026-06-16,"Guerreros de Oaxaca","Acereros del Norte",0.467019302316058,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846444,2026-06-16,"Diablos Rojos del Mexico","Charros de Jalisco",0.609657444794997,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846123,2026-06-16,"Caliente de Durango","Pericos de Puebla",0.413558588744281,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846731,2026-06-16,"Algodoneros Union Laguna","El Aguila de Veracruz",0.48072069279762,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846484,2026-06-16,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.58774907967488,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846074,2026-06-16,"Toros de Tijuana","Bravos de Leon",0.601568150588559,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846254,2026-06-17,"Tigres de Quintana Roo","Sultanes de Monterrey",0.453427192296126,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846256,2026-06-17,"Tigres de Quintana Roo","Sultanes de Monterrey",0.575286564001261,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+846635,2026-06-17,"Saraperos de Saltillo","Olmecas de Tabasco",0.44568967064551,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846632,2026-06-17,"Saraperos de Saltillo","Olmecas de Tabasco",0.53785398319034,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846719,2026-06-17,"Algodoneros Union Laguna","El Aguila de Veracruz",0.502073319414948,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846716,2026-06-17,"Algodoneros Union Laguna","El Aguila de Veracruz",0.503783895121347,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846396,2026-06-17,"Tecos de los Dos Laredos","Leones de Yucatan",0.408064189480488,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846526,2026-06-17,"Piratas de Campeche","Dorados de Chihuahua",0.466499784459728,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846167,2026-06-17,"Guerreros de Oaxaca","Acereros del Norte",0.468267257180818,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846116,2026-06-17,"Caliente de Durango","Pericos de Puebla",0.41408128128356,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846068,2026-06-17,"Toros de Tijuana","Bravos de Leon",0.653941304091936,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846169,2026-06-18,"Guerreros de Oaxaca","Acereros del Norte",0.468932195011287,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846485,2026-06-18,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.482580900309568,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846483,2026-06-18,"Rieleros de Aguascalientes","Conspiradores de Queretaro",0.584950495873949,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846395,2026-06-18,"Tecos de los Dos Laredos","Leones de Yucatan",0.507176892254723,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846532,2026-06-18,"Piratas de Campeche","Dorados de Chihuahua",0.527840423920357,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846114,2026-06-18,"Caliente de Durango","Pericos de Puebla",0.549329143921351,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846627,2026-06-18,"Saraperos de Saltillo","Olmecas de Tabasco",0.407747395282219,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+846071,2026-06-18,"Toros de Tijuana","Bravos de Leon",0.626236688975829,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846263,2026-06-19,"Tigres de Quintana Roo","Dorados de Chihuahua",0.547623840573819,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846399,2026-06-19,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.502347268008497,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846530,2026-06-19,"Piratas de Campeche","Acereros del Norte",0.546897919183374,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846431,2026-06-19,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.66248569200006,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846171,2026-06-19,"Guerreros de Oaxaca","Charros de Jalisco",0.433894737092937,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846112,2026-06-19,"Caliente de Durango","Conspiradores de Queretaro",0.600242126996222,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846718,2026-06-19,"Algodoneros Union Laguna","Leones de Yucatan",0.573898984406422,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846634,2026-06-19,"Saraperos de Saltillo","Bravos de Leon",0.529145414884306,NA,NA,NA,"Saraperos de Saltillo",NA,NA,TRUE
+846476,2026-06-19,"Rieleros de Aguascalientes","Pericos de Puebla",0.515574580065047,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846067,2026-06-19,"Toros de Tijuana","Olmecas de Tabasco",0.546358902414074,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846437,2026-06-20,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.577542738491705,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846251,2026-06-20,"Tigres de Quintana Roo","Dorados de Chihuahua",0.600432890080562,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846164,2026-06-20,"Guerreros de Oaxaca","Charros de Jalisco",0.586962043945588,NA,NA,NA,"Guerreros de Oaxaca",NA,NA,FALSE
+846393,2026-06-20,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.433094917042756,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846477,2026-06-20,"Rieleros de Aguascalientes","Pericos de Puebla",0.481357423828908,NA,NA,NA,"Pericos de Puebla",NA,NA,FALSE
+846527,2026-06-20,"Piratas de Campeche","Acereros del Norte",0.592169153861899,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846714,2026-06-20,"Algodoneros Union Laguna","Leones de Yucatan",0.431363158924068,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846113,2026-06-20,"Caliente de Durango","Conspiradores de Queretaro",0.611127216942033,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846057,2026-06-20,"Toros de Tijuana","Olmecas de Tabasco",0.588120722065634,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846432,2026-06-21,"Diablos Rojos del Mexico","Sultanes de Monterrey",0.540986887407041,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846115,2026-06-21,"Caliente de Durango","Conspiradores de Queretaro",0.610580362773446,NA,NA,NA,"Caliente de Durango",NA,NA,TRUE
+846252,2026-06-21,"Tigres de Quintana Roo","Dorados de Chihuahua",0.627083910475077,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846617,2026-06-21,"Saraperos de Saltillo","Bravos de Leon",0.475298502333106,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846622,2026-06-21,"Saraperos de Saltillo","Bravos de Leon",0.580345487687142,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846166,2026-06-21,"Guerreros de Oaxaca","Charros de Jalisco",0.439155376360397,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846382,2026-06-21,"Tecos de los Dos Laredos","El Aguila de Veracruz",0.457864029469457,NA,NA,NA,"El Aguila de Veracruz",NA,NA,TRUE
+846524,2026-06-21,"Piratas de Campeche","Acereros del Norte",0.607349153454321,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846713,2026-06-21,"Algodoneros Union Laguna","Leones de Yucatan",0.583825805706793,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846058,2026-06-21,"Toros de Tijuana","Olmecas de Tabasco",0.519799921173946,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846531,2026-06-22,"Piratas de Campeche","Diablos Rojos del Mexico",0.524769324763493,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+845935,2026-06-23,"Charros de Jalisco","Saraperos de Saltillo",0.466049415373817,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+845934,2026-06-23,"Charros de Jalisco","Saraperos de Saltillo",0.441563084265708,NA,NA,NA,"Saraperos de Saltillo",NA,NA,FALSE
+846667,2026-06-23,"Leones de Yucatan","Tigres de Quintana Roo",0.49263525461862,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,TRUE
+846664,2026-06-23,"Leones de Yucatan","Tigres de Quintana Roo",0.401526926982854,NA,NA,NA,"Tigres de Quintana Roo",NA,NA,FALSE
+845977,2026-06-23,"Conspiradores de Queretaro","Olmecas de Tabasco",0.377436862118759,NA,NA,NA,"Olmecas de Tabasco",NA,NA,FALSE
+845975,2026-06-23,"Conspiradores de Queretaro","Olmecas de Tabasco",0.398708543191063,NA,NA,NA,"Olmecas de Tabasco",NA,NA,TRUE
+846533,2026-06-23,"Piratas de Campeche","Diablos Rojos del Mexico",0.622534405916555,NA,NA,NA,"Piratas de Campeche",NA,NA,FALSE
+846390,2026-06-23,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.468291731537216,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,FALSE
+846163,2026-06-23,"Guerreros de Oaxaca","Pericos de Puebla",0.398984530998908,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846215,2026-06-23,"Dorados de Chihuahua","Toros de Tijuana",0.481715940770804,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+846480,2026-06-23,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.51236503368547,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,TRUE
+846819,2026-06-23,"Bravos de Leon","El Aguila de Veracruz",0.353077679793636,NA,NA,NA,"El Aguila de Veracruz",NA,NA,FALSE
+846343,2026-06-23,"Acereros del Norte","Caliente de Durango",0.578448395470507,NA,NA,NA,"Acereros del Norte",NA,NA,FALSE
+846159,2026-06-24,"Guerreros de Oaxaca","Pericos de Puebla",0.398007651674707,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846528,2026-06-24,"Piratas de Campeche","Diablos Rojos del Mexico",0.528656157581054,NA,NA,NA,"Piratas de Campeche",NA,NA,TRUE
+846211,2026-06-24,"Dorados de Chihuahua","Toros de Tijuana",0.549733192383888,NA,NA,NA,"Dorados de Chihuahua",NA,NA,FALSE
+846481,2026-06-24,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.465754459971153,NA,NA,NA,"Sultanes de Monterrey",NA,NA,FALSE
+846345,2026-06-24,"Acereros del Norte","Caliente de Durango",0.574256606014109,NA,NA,NA,"Acereros del Norte",NA,NA,TRUE
+846818,2026-06-24,"Bravos de Leon","El Aguila de Veracruz",0.524922552543166,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+846388,2026-06-25,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.552365559503362,NA,NA,NA,"Tecos de los Dos Laredos",NA,NA,FALSE
+846386,2026-06-25,"Tecos de los Dos Laredos","Algodoneros Union Laguna",0.471087292770355,NA,NA,NA,"Algodoneros Union Laguna",NA,NA,TRUE
+846158,2026-06-25,"Guerreros de Oaxaca","Pericos de Puebla",0.479155133866732,NA,NA,NA,"Pericos de Puebla",NA,NA,TRUE
+846207,2026-06-25,"Dorados de Chihuahua","Toros de Tijuana",0.455611454112922,NA,NA,NA,"Toros de Tijuana",NA,NA,FALSE
+845976,2026-06-25,"Conspiradores de Queretaro","Olmecas de Tabasco",0.519277998964882,NA,NA,NA,"Conspiradores de Queretaro",NA,NA,FALSE
+846479,2026-06-25,"Rieleros de Aguascalientes","Sultanes de Monterrey",0.533386943184167,NA,NA,NA,"Rieleros de Aguascalientes",NA,NA,FALSE
+846670,2026-06-25,"Leones de Yucatan","Tigres de Quintana Roo",0.547978407133854,NA,NA,NA,"Leones de Yucatan",NA,NA,FALSE
+846817,2026-06-25,"Bravos de Leon","El Aguila de Veracruz",0.501025594442189,NA,NA,NA,"Bravos de Leon",NA,NA,FALSE
+845932,2026-06-25,"Charros de Jalisco","Saraperos de Saltillo",0.552791083846294,NA,NA,NA,"Charros de Jalisco",NA,NA,FALSE
+846350,2026-06-25,"Acereros del Norte","Caliente de Durango",0.477191593799809,NA,NA,NA,"Caliente de Durango",NA,NA,FALSE
+846349,2026-06-29,"Acereros del Norte","Toros de Tijuana",0.455291179522245,NA,NA,NA,"Toros de Tijuana",NA,NA,TRUE
+846160,2026-06-29,"Guerreros de Oaxaca","Diablos Rojos del Mexico",0.407459424047139,NA,NA,NA,"Diablos Rojos del Mexico",NA,NA,TRUE
+846624,2026-06-30,"Saraperos de Saltillo","Tecos de los Dos Laredos",0.4369,4.22,4.03,8.25,"Tecos de los Dos Laredos",NA,NA,NA
+846573,2026-06-30,"Pericos de Puebla","Leones de Yucatan",0.4976,4.95,4.08,9.03,"Leones de Yucatan",NA,NA,NA
+846712,2026-06-30,"Algodoneros Union Laguna","Rieleros de Aguascalientes",0.5315,7.38,6.9,14.28,"Algodoneros Union Laguna",NA,NA,NA
+846348,2026-06-30,"Acereros del Norte","Toros de Tijuana",0.4374,3.81,4.5,8.31,"Toros de Tijuana",NA,NA,NA
+846814,2026-06-30,"Bravos de Leon","Olmecas de Tabasco",0.4989,6.45,6.7,13.15,"Olmecas de Tabasco",NA,NA,NA
